@@ -1,7 +1,8 @@
-Flask==1.1.2
+Flask==2.1.0
 
 gTTS~=2.2.4
 pyowm~=3.3.0
 geocoder~=1.38.1
 django-os-geocoder~=0.1.6
 countryinfo~=0.1.2
+geopy~=2.2.0
