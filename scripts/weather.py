@@ -14,8 +14,7 @@ def get_current_weather(city):
     g = geolocator.geocode(city)
     one_call = mgr.one_call(lat=g.latitude, lon=g.longitude)
     weather_data = one_call.current
-    response = _get_weather_statements(one_call.timezone.split("/")[1],
-                                       weather_data)
+    response = _get_weather_statements(city, weather_data)
     cleaned_response = ' '.join(response)
     text_to_speech(cleaned_response)
     return cleaned_response
