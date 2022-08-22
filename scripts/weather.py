@@ -25,8 +25,8 @@ def _get_weather_statements(city, data):
         'Today is %B %d of %Y')
 
     temperature = f"The current temperature here in {city} is " \
-                  f"{data.temperature('celsius')['temp']}, and it feels like " \
-                  f"{data.temperature('celsius')['feels_like']}"
+                  f"{round(data.temperature('celsius')['temp'])}, and it feels like " \
+                  f"{round(data.temperature('celsius')['feels_like'])}"
     humidity = f"The humidity is {data.humidity} percent. " + \
                ("Not too humid today!" if data.humidity <= 50
                 else "It's humid today!")
