@@ -16,9 +16,9 @@ def get_current_weather(city):
     weather_data = one_call.current
     response = _get_weather_statements(one_call.timezone.split("/")[1],
                                        weather_data)
-    print(response)
-    text_to_speech(' '.join(response))
-    return response
+    cleaned_response = ' '.join(response)
+    text_to_speech(cleaned_response)
+    return cleaned_response
 
 
 def _get_weather_statements(city, data):
