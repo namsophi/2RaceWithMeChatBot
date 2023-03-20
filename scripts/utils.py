@@ -8,3 +8,4 @@ def text_to_speech(text):
     speaker.save("res.mp3")
     os.system("afplay res.mp3")
     os.remove("res.mp3")
+

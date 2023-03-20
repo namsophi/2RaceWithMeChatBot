@@ -1,0 +1,21 @@
+[   
+    {
+        "speaker": "chatbot",
+        "dialogue_seq": 1,
+        "expected_dialogue": "Hi, I'm Chatbot. Would you like to select a video based on country, province or state, or city? Please see the menu options for choices.",
+        "next_seq": 2
+    },
+    {
+        "speaker": "user",
+        "dialogue_seq": 0,
+        "expected_dialogue": "Chatbot",
+        "keyword": ["Chatbot", "select video"],
+        "next_seq": 1
+    },
+    {
+        "speaker": "chatbot",
+        "dialogue_seq": 1,
+        "expected_dialogue": "Sorry, we don't currently offer videos for this location.",
+        "next_seq": 2
+    }
+]
