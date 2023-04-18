@@ -10,9 +10,8 @@ INIT = "init"
 SELECTION_FINISHED = "selection_finished"
 CONFUSED = "confused"
 
-
-with open('vids_regex.json') as f:
-    debug_videos = json.load(f)
+with open('vids_rev_index.json') as f:
+    vids_rev_index = json.load(f)
 
 with open('video_select_script.json') as f:
     dialogues = json.load(f)
@@ -45,6 +44,7 @@ def listen(recognizer, microphone):
 
 curr_state = INIT
 
+final_res = {}
 def get_videos(curr_state):
     while curr_state != SELECTION_FINISHED:
         if curr_state == INIT:
@@ -55,15 +55,16 @@ def get_videos(curr_state):
                 text = listen(r, m)
                 print("user dialogue: ", text)
                 if text != None:
-                    for pattern, video in debug_videos.items():
-                        if re.search(re.compile(pattern), text): 
-                            # if a keyword matches, select the corresponding video from the dictionary
-                            lst_vids.append(video) 
-                    if len(lst_vids) == 0:
-                        curr_state = CONFUSED
-                        continue
+                    for term in text.split(' '):
+                        term = term.lower()
+                        if term in vids_rev_index:
+                            video = vids_rev_index[term]
+                            video_view = video.items()
+
+                            lst_vids.append(vids_rev_index[term])
                 curr_state = SELECTION_FINISHED
-                pprint("video list: ", lst_vids)
-                return lst_vids
+                result = set.intersection(*[set(x) for x in lst_vids])  
+                pprint("result", list(result))
+                return result
 
 get_videos(INIT)

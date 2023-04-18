@@ -6,7 +6,6 @@
             "type": "Walk",
             "image": "images/peddler/JP3.jpg",
             "vid": "videos/peddler/JP - AKIHABARA 1.mp4",
-            "tags": ["streetview"],
             "points": [
                 [
                     540,
@@ -645,7 +644,6 @@
             "type": "Walk",
             "image": "images/peddler/69.jpg",
             "vid": "videos/peddler/FR - PARIS 1, HIGHLINE PARK.mp4",
-            "tags": ["park", "europe"],
             "points": [
                 [
                     540,
@@ -805,7 +803,6 @@
             "type": "Walk",
             "image": "images/peddler/70.jpg",
             "vid": "videos/peddler/FR - PARIS 2, RUE MOUFFETARD.mp4",
-            "tags": ["streetview", "europe"],
             "points": [
                 [
                     540,
@@ -1124,7 +1121,6 @@
             "type": "Walk",
             "image": "images/peddler/73.jpg",
             "vid": "videos/peddler/FR - PARIS 4, THE LOUVRE.mp4",
-            "tags": ["museum"],
             "points": [
                 [
                     540,
@@ -1443,7 +1439,6 @@
             "type": "Walk",
             "image": "images/peddler/76.jpg",
             "vid": "videos/peddler/FR - PARIS 6, CHAMPS-ÉLYSÉES.mp4",
-            "tags": ["streetview"],
             "points": [
                 [
                     540,

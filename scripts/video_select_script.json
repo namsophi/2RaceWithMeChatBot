@@ -1,21 +1,108 @@
-[   
-    {
+{
+    "init": {
+        "speaker": "chatbot",
+        "dialogue_seq": "init",
+        "expected_dialogue": "Hi, I'm Chatbot. What video would you like to select?"
+    },
+    "title": {
+        "speaker": "chatbot",
+        "dialogue_seq": "title",
+        "expected_dialogue": "What is the title of the video that you're interested in?"
+    },
+    "country": {
+        "speaker": "chatbot",
+        "dialogue_seq": "country",
+        "expected_dialogue": "Which country would you like to select? Please see menu for options.",
+        "expected_keywords": {"canada": "canada", "usa": "usa", "america": "usa", "states": "usa", "united states": "usa",
+            "japan": "JAPAN / LE JAPON", "france": "france", "italy": "italy", 
+            "austria": "austria", "switzerland": "switzerland", "greece": "greece", "egypt": "egypt"}
+    },
+    "province": {
+        "speaker": "chatbot",
+        "dialogue_seq": "province",
+        "expected_dialogue": "Which province are you interested in? Please see options on the menu",
+        "expected_keywords": {
+            "bc": "BRITISH COLUMBIA / C.-B.", "british columbia": "BRITISH COLUMBIA / C.-B.",
+            "ontario": "ONTARIO / Ont."}
+    },
+    "state": {
+        "speaker": "chatbot",
+        "dialogue_seq": "state",
+        "expected_dialogue": "Which state are you interested in? Please see options on the menu",
+        "expected_keywords": {
+            "washington": "L'ÉTAT DE WASHINGTON STATE", "california": "CALIFORNIA / LA CALIFORNIE",
+            "ontario": "ONTARIO / Ont."}
+    },
+    "JAPAN / LE JAPON": {
+        "speaker": "chatbot",
+        "dialogue_seq": "japan",
+        "expected_dialogue": "Please see menu for all the videos in Japan.",
+        "return_videos": "JAPAN / LE JAPON"
+    },
+    "france": {
+        "speaker": "chatbot",
+        "dialogue_seq": "france",
+        "expected_dialogue": "Please see menu for all the videos in France.",
+        "return_videos": "FRANCE / LA FRANCE"
+    },
+    "italy": {
+        "speaker": "chatbot",
+        "dialogue_seq": "italy",
+        "expected_dialogue": "Please see menu for all the videos in Italy.",
+        "return_videos": "ITALY / L'ITALIE"
+    },
+    "austria": {
+        "speaker": "chatbot",
+        "dialogue_seq": "austria",
+        "expected_dialogue": "Please see menu for all the videos in Austria.",
+        "return_videos": "AUSTRIA / L'AUTRICHE"
+    },
+    "switzerland": {
+        "speaker": "chatbot",
+        "dialogue_seq": "switzerland",
+        "expected_dialogue": "Please see menu for all the videos in Switzerland.",
+        "return_videos": "SWITZERLAND / LA SUISSE"
+    },
+    "greece": {
+        "speaker": "chatbot",
+        "dialogue_seq": "greece",
+        "expected_dialogue": "Please see menu for all the videos in Greece.",
+        "return_videos": "Greece / LA GRÈCE"
+    },
+    "egypt": {
+        "speaker": "chatbot",
+        "dialogue_seq": "egypt",
+        "expected_dialogue": "Please see menu for all the videos in Egypt.",
+        "return_videos": "EGYPT / L'ÉGYPTE"
+    },
+    "canada": {
+        "speaker": "chatbot",
+        "dialogue_seq": "canada",
+        "expected_dialogue": "Are you looking for generic Canadian videos, or videos of a specific Canadian province? Please answer generic or province.",
+        "expected_keywords": {"generic": "generic", "province": "province"}
+    },
+    "L'ÉTAT DE WASHINGTON STATE": {
+        "speaker": "chatbot",
+        "dialogue_seq": "L'ÉTAT DE WASHINGTON STATE",
+        "expected_dialogue": "Please see menu for all the videos in Washington.",
+        "return_videos": "L'ÉTAT DE WASHINGTON STATE"
+    },
+    "CALIFORNIA / LA CALIFORNIE": {
+        "speaker": "chatbot",
+        "dialogue_seq": "CALIFORNIA / LA CALIFORNIE",
+        "expected_dialogue": "Please see menu for all the videos in Washington.",
+        "return_videos": "L'ÉTAT DE WASHINGTON STATE"
+    },
+    "BRITISH COLUMBIA / C.-B.": {
+        "speaker": "chatbot",
+        "dialogue_seq": "BRITISH COLUMBIA / C.-B.",
+        "expected_dialogue": "Please see menu for all the videos in British Columbia.",
+        "return_videos": "BRITISH COLUMBIA / C.-B."
+    },
+    "confused": {
         "speaker": "chatbot",
         "dialogue_seq": 1,
-        "expected_dialogue": "Hi, I'm Chatbot. Would you like to select a video based on country, province or state, or city? Please see the menu options for choices.",
-        "next_seq": 2
-    },
-    {
-        "speaker": "user",
-        "dialogue_seq": 0,
-        "expected_dialogue": "Chatbot",
-        "keyword": ["Chatbot", "select video"],
-        "next_seq": 1
-    },
-    {
-        "speaker": "chatbot",
-        "dialogue_seq": 1,
-        "expected_dialogue": "Sorry, we don't currently offer videos for this location.",
+        "expected_dialogue": "Sorry, I could not understand that. Please use relevant keywords.",
         "next_seq": 2
     }
-]
+}

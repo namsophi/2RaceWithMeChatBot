@@ -45,14 +45,12 @@ def listen(recognizer, microphone):
 
 curr_state = INIT
 
-def get_videos(curr_state):
+def get_videos(curr_state, text):
     while curr_state != SELECTION_FINISHED:
         if curr_state == INIT:
-            text_to_speech(dialogues[curr_state]["expected_dialogue"])
             print("chatbot: ", dialogues[curr_state]["expected_dialogue"])
             lst_vids = []
             while curr_state != SELECTION_FINISHED:
-                text = listen(r, m)
                 print("user dialogue: ", text)
                 if text != None:
                     for pattern, video in debug_videos.items():
@@ -63,7 +61,7 @@ def get_videos(curr_state):
                         curr_state = CONFUSED
                         continue
                 curr_state = SELECTION_FINISHED
-                pprint("video list: ", lst_vids)
+                pprint(lst_vids)
                 return lst_vids
 
-get_videos(INIT)
+get_videos(INIT, "a walk in the park")

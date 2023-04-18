@@ -2,34 +2,50 @@ import json
 import re
 
 # clean the list of video json objects from videos.js
-with open('vids_not_nested.json') as f:
-    all_videos = json.load(f)
+with open('vids_by_cat.json') as f:
+    vids_cat = json.load(f)
 
 def split_num_text(s): # helper function to split number and text
     head = s.rstrip('0123456789')
     return head.strip()
 
 vids_organized = {}
-# organize the vids_not_nested to use video name as key for faster indexing
-for video in all_videos:
-    key_words = []
-    # use regex because it's faster to search through a list of keywords (video names and sub-components)
-    video_vname = video["vname"]
-    vid_bilingualName = video["bilingualName"]
-    if '/' in vid_bilingualName: # include both french and english words as keywords
-        result2 = [x.strip() for x in vid_bilingualName.split('/')]
-        key_words.extend(result2)
-    key_words.append(video_vname)
-    key_words.append(vid_bilingualName)
-    keywords_without_number = [] # for videos like Algonquin 1, Algonquin 2, create new keyword without number called Algonquin
-    for i in range(len(key_words)):
-        if split_num_text(key_words[i]) not in keywords_without_number:
-            keywords_without_number.append(split_num_text(key_words[i]))
-    key_words.extend(keywords_without_number)
-    for i in range(len(key_words)):
-        key_words[i] = '.*\\b'+key_words[i]+'\\b.*'
-    vid_key = '|'.join(key_words)
-    vids_organized[vid_key] = video
+vids_debug = {}
+for (category, videos) in vids_cat.items():
+    for video in videos:
+        if video["vname"] == "PLEASE IGNORE":
+            continue
+        key_words = set() # use set to prevent duplicates
+        if "tags" in video:  
+            key_words.update(set(video["tags"]))
+        key_words.update(set([video["type"]]))
+        key_words.update(set([x.strip() for x in video["bilingualName"].split('/')])) # include bilingual video name
+        # Note simply splitting by / is a rough division. Some names "Trails / Sentiers" work this way, some: "Xmas/Nöel City Hall Toronto" work less well
+        key_words.update(set([x.strip() for x in category.split('/')])) # include bilingual category name
+        key_words.update(set([video["vname"]]))
+        key_words.update(set([x.strip() for x in video["vname"].split()]))
+        keywords_without_number = [] # for videos like Algonquin 1, Algonquin 2, create new keyword without number called Algonquin
+        new_key_words = set()
+        for val in key_words:
+            if split_num_text(val) not in keywords_without_number:
+                keywords_without_number.append(split_num_text(val))
+            # only keep words (Akihabara) or words + number (Akihabara 1). Remove single numbers (1)
+            if not val.isnumeric():
+                new_key_words.update(set([val]))
+        new_key_words.update(set(keywords_without_number))
+        # use regex to match keywords
+        regex_keywords = []
+         # use regex because it's faster to search through a list of keywords
+        for val in new_key_words:
+            regex_keywords.append('.*\\b'+val+'\\b.*')
+        vid_key = '|'.join(regex_keywords)
+        vids_organized[vid_key] = video
+        video_debug = dict(video) # make a deep copy of video
+        video_debug.pop("points")
+        vids_debug[vid_key] = video_debug
 
-with open("vids_organized.json", "w") as outfile:
-    json.dump(vids_organized, outfile, indent = 4)
+with open("vids_new.json", "w") as outfile:
+    json.dump(vids_organized, outfile, indent = 4, ensure_ascii=False)
+
+with open("vids_debug.json", "w") as outfile:
+    json.dump(vids_debug, outfile, indent = 4, ensure_ascii=False)

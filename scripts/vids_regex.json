@@ -1,0 +1,1804 @@
+{
+    ".*\\bstreetview\\b.*|.*\\bstreetview\\b.*|.*\\bstreetview\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\bakihabara 1\\b.*|.*\\bakihabara 1\\b.*|.*\\bakihabara 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bakihabara\\b.*|.*\\bakihabara\\b.*|.*\\bakihabara\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*": {
+        "vname": "Akihabara 1",
+        "bilingualName": "Akihabara 1",
+        "type": "Walk",
+        "image": "images/peddler/JP3.jpg",
+        "vid": "videos/peddler/JP - AKIHABARA 1.mp4",
+        "tags": [
+            "streetview"
+        ]
+    },
+    ".*\\bakihabara 2\\b.*|.*\\bakihabara 2\\b.*|.*\\bakihabara 2\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\bakihabara\\b.*|.*\\bakihabara\\b.*|.*\\bakihabara\\b.*": {
+        "vname": "Akihabara 2",
+        "bilingualName": "Akihabara 2",
+        "type": "Walk",
+        "image": "images/peddler/JP2.jpg",
+        "vid": "videos/peddler/JP - AKIHABARA 2.mp4"
+    },
+    ".*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\bnagoya expressways\\b.*|.*\\bnagoya expressways\\b.*|.*\\bnagoya expressways\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bnagoya autoroutes\\b.*|.*\\bnagoya autoroutes\\b.*|.*\\bnagoya autoroutes\\b.*|.*\\bexpressways\\b.*|.*\\bexpressways\\b.*|.*\\bexpressways\\b.*|.*\\bnagoya\\b.*|.*\\bnagoya\\b.*|.*\\bnagoya\\b.*": {
+        "vname": "Nagoya Expressways",
+        "bilingualName": "Nagoya Autoroutes",
+        "type": "Drive",
+        "image": "images/peddler/JP1.jpg",
+        "vid": "videos/peddler/JP - NAGOYA EXPRESSWAYS.mp4"
+    },
+    ".*\\b2 shinto shrines\\b.*|.*\\b2 shinto shrines\\b.*|.*\\b2 shinto shrines\\b.*|.*\\bshinto shrines\\b.*|.*\\bshinto shrines\\b.*|.*\\bshinto shrines\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\ble japon\\b.*|.*\\bshrines\\b.*|.*\\bshrines\\b.*|.*\\bshrines\\b.*|.*\\btemples shintoïstes\\b.*|.*\\btemples shintoïstes\\b.*|.*\\btemples shintoïstes\\b.*|.*\\bshinto\\b.*|.*\\bshinto\\b.*|.*\\bshinto\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*|.*\\bjapan\\b.*": {
+        "vname": "2 Shinto Shrines",
+        "bilingualName": "Shinto Shrines/Temples Shintoïstes",
+        "type": "Drone",
+        "image": "images/peddler/JP4.jpg",
+        "vid": "videos/peddler/JP - SHINTO SHRINES.mp4"
+    },
+    ".*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis 1\\b.*|.*\\bparis 1\\b.*|.*\\bparis 1\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\beurope\\b.*|.*\\beurope\\b.*|.*\\beurope\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*": {
+        "vname": "Paris 1",
+        "bilingualName": "Paris 1",
+        "type": "Walk",
+        "image": "images/peddler/69.jpg",
+        "vid": "videos/peddler/FR - PARIS 1, HIGHLINE PARK.mp4",
+        "tags": [
+            "park",
+            "europe"
+        ]
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis 2\\b.*|.*\\bparis 2\\b.*|.*\\bparis 2\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\beurope\\b.*|.*\\beurope\\b.*|.*\\beurope\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bstreetview\\b.*|.*\\bstreetview\\b.*|.*\\bstreetview\\b.*": {
+        "vname": "Paris 2",
+        "bilingualName": "Paris 2",
+        "type": "Walk",
+        "image": "images/peddler/70.jpg",
+        "vid": "videos/peddler/FR - PARIS 2, RUE MOUFFETARD.mp4",
+        "tags": [
+            "streetview",
+            "europe"
+        ]
+    },
+    ".*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis 3\\b.*|.*\\bparis 3\\b.*|.*\\bparis 3\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*": {
+        "vname": "Paris 3",
+        "bilingualName": "Paris 3",
+        "type": "Walk",
+        "image": "images/peddler/71.jpg",
+        "vid": "videos/peddler/FR - PARIS 3, JARDIN DU LUXEMBOURG.mp4"
+    },
+    ".*\\bparis 4\\b.*|.*\\bparis 4\\b.*|.*\\bparis 4\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*": {
+        "vname": "Paris 4",
+        "bilingualName": "Paris 4",
+        "type": "Walk",
+        "image": "images/peddler/73.jpg",
+        "vid": "videos/peddler/FR - PARIS 4, THE LOUVRE.mp4",
+        "tags": [
+            "museum"
+        ]
+    },
+    ".*\\bparis 5\\b.*|.*\\bparis 5\\b.*|.*\\bparis 5\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*": {
+        "vname": "Paris 5",
+        "bilingualName": "Paris 5",
+        "type": "Walk",
+        "image": "images/peddler/74.jpg",
+        "vid": "videos/peddler/FR - PARIS 5, JARDIN DES TUILERIES.mp4"
+    },
+    ".*\\bstreetview\\b.*|.*\\bstreetview\\b.*|.*\\bstreetview\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bla france\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bparis 6\\b.*|.*\\bparis 6\\b.*|.*\\bparis 6\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bparis\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*|.*\\bfrance\\b.*": {
+        "vname": "Paris 6",
+        "bilingualName": "Paris 6",
+        "type": "Walk",
+        "image": "images/peddler/76.jpg",
+        "vid": "videos/peddler/FR - PARIS 6, CHAMPS-ÉLYSÉES.mp4",
+        "tags": [
+            "streetview"
+        ]
+    },
+    ".*\\bamalfi 1\\b.*|.*\\bamalfi 1\\b.*|.*\\bamalfi 1\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bamalfi drive 1\\b.*|.*\\bamalfi drive 1\\b.*|.*\\bamalfi drive 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bamalfi drive\\b.*|.*\\bamalfi drive\\b.*|.*\\bamalfi drive\\b.*": {
+        "vname": "Amalfi Drive 1",
+        "bilingualName": "Amalfi 1",
+        "type": "Drive",
+        "image": "images/peddler/14.jpg",
+        "vid": "videos/peddler/IT - AMALFI DRIVE 1.mp4"
+    },
+    ".*\\bamalfi 2\\b.*|.*\\bamalfi 2\\b.*|.*\\bamalfi 2\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bamalfi drive 2\\b.*|.*\\bamalfi drive 2\\b.*|.*\\bamalfi drive 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bamalfi drive\\b.*|.*\\bamalfi drive\\b.*|.*\\bamalfi drive\\b.*": {
+        "vname": "Amalfi Drive 2",
+        "bilingualName": "Amalfi 2",
+        "type": "Drive",
+        "image": "images/peddler/15.jpg",
+        "vid": "videos/peddler/IT - AMALFI DRIVE 2.mp4"
+    },
+    ".*\\bamalfi 3\\b.*|.*\\bamalfi 3\\b.*|.*\\bamalfi 3\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bamalfi\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bamalfi walk\\b.*|.*\\bamalfi walk\\b.*|.*\\bamalfi walk\\b.*": {
+        "vname": "Amalfi Walk",
+        "bilingualName": "Amalfi 3",
+        "type": "Walk",
+        "image": "images/peddler/01.jpg",
+        "vid": "videos/peddler/IT - AMALFI WALK.mp4"
+    },
+    ".*\\bassisi\\b.*|.*\\bassisi\\b.*|.*\\bassisi\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bassisi 1\\b.*|.*\\bassisi 1\\b.*|.*\\bassisi 1\\b.*|.*\\bassise 1\\b.*|.*\\bassise 1\\b.*|.*\\bassise 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bassise\\b.*|.*\\bassise\\b.*|.*\\bassise\\b.*": {
+        "vname": "Assisi 1",
+        "bilingualName": "Assisi /Assise 1",
+        "type": "Walk",
+        "image": "images/peddler/44.jpg",
+        "vid": "videos/peddler/IT - ASSISI 1.mp4"
+    },
+    ".*\\bassisi\\b.*|.*\\bassisi\\b.*|.*\\bassisi\\b.*|.*\\bassisi 2\\b.*|.*\\bassisi 2\\b.*|.*\\bassisi 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bassise\\b.*|.*\\bassise\\b.*|.*\\bassise\\b.*|.*\\bassise 2\\b.*|.*\\bassise 2\\b.*|.*\\bassise 2\\b.*": {
+        "vname": "Assisi 2",
+        "bilingualName": "Assisi /Assise 2",
+        "type": "Walk",
+        "image": "images/peddler/45.jpg",
+        "vid": "videos/peddler/IT - ASSISI 2.mp4"
+    },
+    ".*\\bburano\\b.*|.*\\bburano\\b.*|.*\\bburano\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Burano",
+        "bilingualName": "Burano",
+        "type": "Walk",
+        "image": "images/peddler/87.jpg",
+        "vid": "videos/peddler/IT - BURANO, ITALY.mp4"
+    },
+    ".*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bcapri 1\\b.*|.*\\bcapri 1\\b.*|.*\\bcapri 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bcapri\\b.*|.*\\bcapri\\b.*|.*\\bcapri\\b.*": {
+        "vname": "Capri 1",
+        "bilingualName": "Capri 1",
+        "type": "Bike",
+        "image": "images/peddler/88.jpg",
+        "vid": "videos/peddler/IT - CAPRI BIKE RIDE 1.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bcapri 2\\b.*|.*\\bcapri 2\\b.*|.*\\bcapri 2\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bcapri\\b.*|.*\\bcapri\\b.*|.*\\bcapri\\b.*": {
+        "vname": "Capri 2",
+        "bilingualName": "Capri 2",
+        "type": "Bike",
+        "image": "images/peddler/89.jpg",
+        "vid": "videos/peddler/IT - CAPRI BIKE RIDE 2.mp4"
+    },
+    ".*\\baragonese castle 1\\b.*|.*\\baragonese castle 1\\b.*|.*\\baragonese castle 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\baragonese\\b.*|.*\\baragonese\\b.*|.*\\baragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\baragonese castle\\b.*|.*\\baragonese castle\\b.*|.*\\baragonese castle\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bcastle\\b.*|.*\\bcastle\\b.*|.*\\bcastle\\b.*|.*\\bcastello aragonese 1\\b.*|.*\\bcastello aragonese 1\\b.*|.*\\bcastello aragonese 1\\b.*": {
+        "vname": "Aragonese Castle 1",
+        "bilingualName": "Castello Aragonese 1",
+        "type": "Walk",
+        "image": "images/peddler/40.jpg",
+        "vid": "videos/peddler/IT - ARAGONESE CASTLE 1.mp4"
+    },
+    ".*\\bcastello aragonese 2\\b.*|.*\\bcastello aragonese 2\\b.*|.*\\bcastello aragonese 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\baragonese\\b.*|.*\\baragonese\\b.*|.*\\baragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\bcastello aragonese\\b.*|.*\\baragonese castle\\b.*|.*\\baragonese castle\\b.*|.*\\baragonese castle\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\baragonese castle 2\\b.*|.*\\baragonese castle 2\\b.*|.*\\baragonese castle 2\\b.*|.*\\bcastle\\b.*|.*\\bcastle\\b.*|.*\\bcastle\\b.*": {
+        "vname": "Aragonese Castle 2",
+        "bilingualName": "Castello Aragonese 2",
+        "type": "Walk",
+        "image": "images/peddler/41.jpg",
+        "vid": "videos/peddler/IT - ARAGONESE CASTLE 2.mp4"
+    },
+    ".*\\bcivita di bagnoregio\\b.*|.*\\bcivita di bagnoregio\\b.*|.*\\bcivita di bagnoregio\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bcivita\\b.*|.*\\bcivita\\b.*|.*\\bcivita\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bdi\\b.*|.*\\bdi\\b.*|.*\\bdi\\b.*|.*\\bbagnoregio\\b.*|.*\\bbagnoregio\\b.*|.*\\bbagnoregio\\b.*": {
+        "vname": "Civita di Bagnoregio",
+        "bilingualName": "Civita di Bagnoregio",
+        "type": "Walk",
+        "image": "images/peddler/58.jpg",
+        "vid": "videos/peddler/IT - CIVITA DI BAGNOREGIO.mp4"
+    },
+    ".*\\bflorence 1\\b.*|.*\\bflorence 1\\b.*|.*\\bflorence 1\\b.*|.*\\bflorence\\b.*|.*\\bflorence\\b.*|.*\\bflorence\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Florence 1",
+        "bilingualName": "Florence 1",
+        "type": "Walk",
+        "image": "images/peddler/16.jpg",
+        "vid": "videos/peddler/IT - FLORENCE 1.mp4"
+    },
+    ".*\\bflorence 2\\b.*|.*\\bflorence 2\\b.*|.*\\bflorence 2\\b.*|.*\\bflorence\\b.*|.*\\bflorence\\b.*|.*\\bflorence\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Florence 2",
+        "bilingualName": "Florence 2",
+        "type": "Walk",
+        "image": "images/peddler/17.jpg",
+        "vid": "videos/peddler/IT - FLORENCE 2.mp4"
+    },
+    ".*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bherculaneum\\b.*|.*\\bherculaneum\\b.*|.*\\bherculaneum\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bherculaneum 1\\b.*|.*\\bherculaneum 1\\b.*|.*\\bherculaneum 1\\b.*": {
+        "vname": "Herculaneum 1",
+        "bilingualName": "Herculaneum 1",
+        "type": "Walk",
+        "image": "images/peddler/99.jpg",
+        "vid": "videos/peddler/IT - HERCULANEUM 1.mp4"
+    },
+    ".*\\bherculaneum\\b.*|.*\\bherculaneum\\b.*|.*\\bherculaneum\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bherculaneum 2\\b.*|.*\\bherculaneum 2\\b.*|.*\\bherculaneum 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Herculaneum 2",
+        "bilingualName": "Herculaneum 2",
+        "type": "Walk",
+        "image": "images/peddler/100.jpg",
+        "vid": "videos/peddler/IT - HERCULANEUM 2.mp4"
+    },
+    ".*\\bil colosseo\\b.*|.*\\bil colosseo\\b.*|.*\\bil colosseo\\b.*|.*\\bcolosseum\\b.*|.*\\bcolosseum\\b.*|.*\\bcolosseum\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Colosseum",
+        "bilingualName": "Il Colosseo",
+        "type": "Walk",
+        "image": "images/peddler/57.jpg",
+        "vid": "videos/peddler/IT - COLOSSEUM, ROME.mp4"
+    },
+    ".*\\bla scala fenicia\\b.*|.*\\bla scala fenicia\\b.*|.*\\bla scala fenicia\\b.*|.*\\bphoenician steps 1\\b.*|.*\\bphoenician steps 1\\b.*|.*\\bphoenician steps 1\\b.*|.*\\bphoenician steps\\b.*|.*\\bphoenician steps\\b.*|.*\\bphoenician steps\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bphoenician\\b.*|.*\\bphoenician\\b.*|.*\\bphoenician\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bla scala fenicia 1\\b.*|.*\\bla scala fenicia 1\\b.*|.*\\bla scala fenicia 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bsteps\\b.*|.*\\bsteps\\b.*|.*\\bsteps\\b.*": {
+        "vname": "Phoenician Steps 1",
+        "bilingualName": "La Scala Fenicia 1",
+        "type": "Walk",
+        "image": "images/peddler/36.jpg",
+        "vid": "videos/peddler/IT - PHOENICIAN STEPS 1.mp4"
+    },
+    ".*\\bla scala fenicia\\b.*|.*\\bla scala fenicia\\b.*|.*\\bla scala fenicia\\b.*|.*\\bphoenician steps\\b.*|.*\\bphoenician steps\\b.*|.*\\bphoenician steps\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bphoenician\\b.*|.*\\bphoenician\\b.*|.*\\bphoenician\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bla scala fenicia 2\\b.*|.*\\bla scala fenicia 2\\b.*|.*\\bla scala fenicia 2\\b.*|.*\\bphoenician steps 2\\b.*|.*\\bphoenician steps 2\\b.*|.*\\bphoenician steps 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bsteps\\b.*|.*\\bsteps\\b.*|.*\\bsteps\\b.*": {
+        "vname": "Phoenician Steps 2",
+        "bilingualName": "La Scala Fenicia 2",
+        "type": "Walk",
+        "image": "images/peddler/37.jpg",
+        "vid": "videos/peddler/IT - PHOENICIAN STEPS 2.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\blucca wall\\b.*|.*\\blucca wall\\b.*|.*\\blucca wall\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bwall\\b.*|.*\\bwall\\b.*|.*\\bwall\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\blucca\\b.*|.*\\blucca\\b.*|.*\\blucca\\b.*": {
+        "vname": "Lucca Wall",
+        "bilingualName": "Lucca",
+        "type": "Bike",
+        "image": "images/peddler/84.jpg",
+        "vid": "videos/peddler/IT - LUCCA WALL BIKE RIDE.mp4"
+    },
+    ".*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmatera 1\\b.*|.*\\bmatera 1\\b.*|.*\\bmatera 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Matera 1",
+        "bilingualName": "Matera 1",
+        "type": "Walk",
+        "image": "images/peddler/26.jpg",
+        "vid": "videos/peddler/IT - MATERA 1.mp4"
+    },
+    ".*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmatera 2\\b.*|.*\\bmatera 2\\b.*|.*\\bmatera 2\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Matera 2",
+        "bilingualName": "Matera 2",
+        "type": "Walk",
+        "image": "images/peddler/27.jpg",
+        "vid": "videos/peddler/IT - MATERA 2.mp4"
+    },
+    ".*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bmatera\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmatera 3\\b.*|.*\\bmatera 3\\b.*|.*\\bmatera 3\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Matera 3",
+        "bilingualName": "Matera 3",
+        "type": "Walk",
+        "image": "images/peddler/28.jpg",
+        "vid": "videos/peddler/IT - MATERA 3.mp4"
+    },
+    ".*\\bmonte\\b.*|.*\\bmonte\\b.*|.*\\bmonte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bsolaro\\b.*|.*\\bsolaro\\b.*|.*\\bsolaro\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmonte solaro\\b.*|.*\\bmonte solaro\\b.*|.*\\bmonte solaro\\b.*|.*\\bmonte solaro 1\\b.*|.*\\bmonte solaro 1\\b.*|.*\\bmonte solaro 1\\b.*": {
+        "vname": "Monte Solaro 1",
+        "bilingualName": "Monte Solaro 1",
+        "type": "Walk",
+        "image": "images/peddler/04.jpg",
+        "vid": "videos/peddler/IT - MONTE SOLARO 1.mp4"
+    },
+    ".*\\bmonte solaro 2\\b.*|.*\\bmonte solaro 2\\b.*|.*\\bmonte solaro 2\\b.*|.*\\bmonte\\b.*|.*\\bmonte\\b.*|.*\\bmonte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bsolaro\\b.*|.*\\bsolaro\\b.*|.*\\bsolaro\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmonte solaro\\b.*|.*\\bmonte solaro\\b.*|.*\\bmonte solaro\\b.*": {
+        "vname": "Monte Solaro 2",
+        "bilingualName": "Monte Solaro 2",
+        "type": "Walk",
+        "image": "images/peddler/05.jpg",
+        "vid": "videos/peddler/IT - MONTE SOLARO 2.mp4"
+    },
+    ".*\\bchiaia\\b.*|.*\\bchiaia\\b.*|.*\\bchiaia\\b.*|.*\\bnaples via chiaia\\b.*|.*\\bnaples via chiaia\\b.*|.*\\bnaples via chiaia\\b.*|.*\\bnaples via chiaia 1\\b.*|.*\\bnaples via chiaia 1\\b.*|.*\\bnaples via chiaia 1\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bnaples 1\\b.*|.*\\bnaples 1\\b.*|.*\\bnaples 1\\b.*": {
+        "vname": "Naples Via Chiaia 1",
+        "bilingualName": "Naples 1",
+        "type": "Walk",
+        "image": "images/peddler/82.jpg",
+        "vid": "videos/peddler/IT - NAPLES VIA CHIAIA 1.mp4"
+    },
+    ".*\\bnaples via chiaia\\b.*|.*\\bnaples via chiaia\\b.*|.*\\bnaples via chiaia\\b.*|.*\\bchiaia\\b.*|.*\\bchiaia\\b.*|.*\\bchiaia\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bnaples via chiaia 2\\b.*|.*\\bnaples via chiaia 2\\b.*|.*\\bnaples via chiaia 2\\b.*|.*\\bnaples 2\\b.*|.*\\bnaples 2\\b.*|.*\\bnaples 2\\b.*": {
+        "vname": "Naples Via Chiaia 2",
+        "bilingualName": "Naples 2",
+        "type": "Walk",
+        "image": "images/peddler/68.jpg",
+        "vid": "videos/peddler/IT - NAPLES VIA CHIAIA 2.mp4"
+    },
+    ".*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bnaples waterfront 1\\b.*|.*\\bnaples waterfront 1\\b.*|.*\\bnaples waterfront 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bnaples 3\\b.*|.*\\bnaples 3\\b.*|.*\\bnaples 3\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*": {
+        "vname": "Naples Waterfront 1",
+        "bilingualName": "Naples 3",
+        "type": "Walk",
+        "image": "images/peddler/67.jpg",
+        "vid": "videos/peddler/IT - NAPLES WATERFRONT 1.mp4"
+    },
+    ".*\\bnaples waterfront 2\\b.*|.*\\bnaples waterfront 2\\b.*|.*\\bnaples waterfront 2\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bnaples 4\\b.*|.*\\bnaples 4\\b.*|.*\\bnaples 4\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*": {
+        "vname": "Naples Waterfront 2",
+        "bilingualName": "Naples 4",
+        "type": "Walk",
+        "image": "images/peddler/80.jpg",
+        "vid": "videos/peddler/IT - NAPLES WATERFRONT 2.mp4"
+    },
+    ".*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bnaples\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bnaples waterfront 3\\b.*|.*\\bnaples waterfront 3\\b.*|.*\\bnaples waterfront 3\\b.*|.*\\bnaples 5\\b.*|.*\\bnaples 5\\b.*|.*\\bnaples 5\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*|.*\\bnaples waterfront\\b.*": {
+        "vname": "Naples Waterfront 3",
+        "bilingualName": "Naples 5",
+        "type": "Walk",
+        "image": "images/peddler/75.jpg",
+        "vid": "videos/peddler/IT - NAPLES WATERFRONT 3.mp4"
+    },
+    ".*\\bpaestum\\b.*|.*\\bpaestum\\b.*|.*\\bpaestum\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Paestum",
+        "bilingualName": "Paestum",
+        "type": "Walk",
+        "image": "images/peddler/50.jpg",
+        "vid": "videos/peddler/IT - PAESTUM, ITALY.mp4"
+    },
+    ".*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpalermo\\b.*|.*\\bpalermo\\b.*|.*\\bpalermo\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bpalermo 1\\b.*|.*\\bpalermo 1\\b.*|.*\\bpalermo 1\\b.*": {
+        "vname": "Palermo 1",
+        "bilingualName": "Palermo 1",
+        "type": "Bike",
+        "image": "images/peddler/85.jpg",
+        "vid": "videos/peddler/IT - PALERMO BIKE RIDE 1.mp4"
+    },
+    ".*\\bpalermo 2\\b.*|.*\\bpalermo 2\\b.*|.*\\bpalermo 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpalermo\\b.*|.*\\bpalermo\\b.*|.*\\bpalermo\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Palermo 2",
+        "bilingualName": "Palermo 2",
+        "type": "Bike",
+        "image": "images/peddler/86.jpg",
+        "vid": "videos/peddler/IT - PALERMO BIKE RIDE 2.mp4"
+    },
+    ".*\\bpitigliano\\b.*|.*\\bpitigliano\\b.*|.*\\bpitigliano\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpitigliano 1\\b.*|.*\\bpitigliano 1\\b.*|.*\\bpitigliano 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Pitigliano 1",
+        "bilingualName": "Pitigliano 1",
+        "type": "Walk",
+        "image": "images/peddler/38.jpg",
+        "vid": "videos/peddler/IT - PITIGLIANO 1.mp4"
+    },
+    ".*\\bpitigliano\\b.*|.*\\bpitigliano\\b.*|.*\\bpitigliano\\b.*|.*\\bpitigliano 2\\b.*|.*\\bpitigliano 2\\b.*|.*\\bpitigliano 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Pitigliano 2",
+        "bilingualName": "Pitigliano 2",
+        "type": "Walk",
+        "image": "images/peddler/39.jpg",
+        "vid": "videos/peddler/IT - PITIGLIANO 2.mp4"
+    },
+    ".*\\bpompeii\\b.*|.*\\bpompeii\\b.*|.*\\bpompeii\\b.*|.*\\bpompeii 1\\b.*|.*\\bpompeii 1\\b.*|.*\\bpompeii 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Pompeii 1",
+        "bilingualName": "Pompeii 1",
+        "type": "Walk",
+        "image": "images/peddler/48.jpg",
+        "vid": "videos/peddler/IT - POMPEII 1.mp4"
+    },
+    ".*\\bpompeii\\b.*|.*\\bpompeii\\b.*|.*\\bpompeii\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpompeii 2\\b.*|.*\\bpompeii 2\\b.*|.*\\bpompeii 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Pompeii 2",
+        "bilingualName": "Pompeii 2",
+        "type": "Walk",
+        "image": "images/peddler/49.jpg",
+        "vid": "videos/peddler/IT - POMPEII 2.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bponza 1\\b.*|.*\\bponza 1\\b.*|.*\\bponza 1\\b.*|.*\\bponza\\b.*|.*\\bponza\\b.*|.*\\bponza\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Ponza 1",
+        "bilingualName": "Ponza 1",
+        "type": "Walk",
+        "image": "images/peddler/55.jpg",
+        "vid": "videos/peddler/IT - PONZA 1.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bponza 2\\b.*|.*\\bponza 2\\b.*|.*\\bponza 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bponza\\b.*|.*\\bponza\\b.*|.*\\bponza\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Ponza 2",
+        "bilingualName": "Ponza 2",
+        "type": "Walk",
+        "image": "images/peddler/56.jpg",
+        "vid": "videos/peddler/IT - PONZA 2.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bportofino 1\\b.*|.*\\bportofino 1\\b.*|.*\\bportofino 1\\b.*": {
+        "vname": "Portofino 1",
+        "bilingualName": "Portofino 1",
+        "type": "Walk",
+        "image": "images/peddler/94.jpg",
+        "vid": "videos/peddler/IT - PORTOFINO 1.mp4"
+    },
+    ".*\\bportofino 2\\b.*|.*\\bportofino 2\\b.*|.*\\bportofino 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Portofino 2",
+        "bilingualName": "Portofino 2",
+        "type": "Walk",
+        "image": "images/peddler/97.jpg",
+        "vid": "videos/peddler/IT - PORTOFINO 2.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bportofino\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bportofino 3\\b.*|.*\\bportofino 3\\b.*|.*\\bportofino 3\\b.*": {
+        "vname": "Portofino 3",
+        "bilingualName": "Portofino 3",
+        "type": "Bike",
+        "image": "images/peddler/92.jpg",
+        "vid": "videos/peddler/IT - PORTOFINO 3 BY BIKE.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bpath of the gods 1\\b.*|.*\\bpath of the gods 1\\b.*|.*\\bpath of the gods 1\\b.*|.*\\bpositano 1\\b.*|.*\\bpositano 1\\b.*|.*\\bpositano 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*": {
+        "vname": "Path of the Gods 1",
+        "bilingualName": "Positano 1",
+        "type": "Walk",
+        "image": "images/peddler/51.jpg",
+        "vid": "videos/peddler/IT - PATH OF THE GODS 1.mp4"
+    },
+    ".*\\bpositano 2\\b.*|.*\\bpositano 2\\b.*|.*\\bpositano 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods 2\\b.*|.*\\bpath of the gods 2\\b.*|.*\\bpath of the gods 2\\b.*": {
+        "vname": "Path of the Gods 2",
+        "bilingualName": "Positano 2",
+        "type": "Walk",
+        "image": "images/peddler/52.jpg",
+        "vid": "videos/peddler/IT - PATH OF THE GODS 2.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bpositano\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bpath\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bpath of the gods 3\\b.*|.*\\bpath of the gods 3\\b.*|.*\\bpath of the gods 3\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bgods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpath of the gods\\b.*|.*\\bpositano 3\\b.*|.*\\bpositano 3\\b.*|.*\\bpositano 3\\b.*": {
+        "vname": "Path of the Gods 3",
+        "bilingualName": "Positano 3",
+        "type": "Walk",
+        "image": "images/peddler/53.jpg",
+        "vid": "videos/peddler/IT - PATH OF THE GODS 3.mp4"
+    },
+    ".*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bprocida 1\\b.*|.*\\bprocida 1\\b.*|.*\\bprocida 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*": {
+        "vname": "Procida 1",
+        "bilingualName": "Procida 1",
+        "type": "Walk",
+        "image": "images/peddler/18.jpg",
+        "vid": "videos/peddler/IT - PROCIDA 1.mp4"
+    },
+    ".*\\bprocida 2\\b.*|.*\\bprocida 2\\b.*|.*\\bprocida 2\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*": {
+        "vname": "Procida 2",
+        "bilingualName": "Procida 2",
+        "type": "Walk",
+        "image": "images/peddler/19.jpg",
+        "vid": "videos/peddler/IT - PROCIDA 2.mp4"
+    },
+    ".*\\bprocida bike ride\\b.*|.*\\bprocida bike ride\\b.*|.*\\bprocida bike ride\\b.*|.*\\bprocida bike ride 1\\b.*|.*\\bprocida bike ride 1\\b.*|.*\\bprocida bike ride 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bprocida 3\\b.*|.*\\bprocida 3\\b.*|.*\\bprocida 3\\b.*": {
+        "vname": "Procida Bike Ride 1",
+        "bilingualName": "Procida 3",
+        "type": "Bike",
+        "image": "images/peddler/91.jpg",
+        "vid": "videos/peddler/IT - PROCIDA 3 BY BIKE.mp4"
+    },
+    ".*\\bprocida bike ride\\b.*|.*\\bprocida bike ride\\b.*|.*\\bprocida bike ride\\b.*|.*\\bprocida bike ride 2\\b.*|.*\\bprocida bike ride 2\\b.*|.*\\bprocida bike ride 2\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bprocida\\b.*|.*\\bprocida 4\\b.*|.*\\bprocida 4\\b.*|.*\\bprocida 4\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Procida Bike Ride 2",
+        "bilingualName": "Procida 4",
+        "type": "Bike",
+        "image": "images/peddler/90.jpg",
+        "vid": "videos/peddler/IT - PROCIDA 4 BY BIKE.mp4"
+    },
+    ".*\\broman forum\\b.*|.*\\broman forum\\b.*|.*\\broman forum\\b.*|.*\\brome 1\\b.*|.*\\brome 1\\b.*|.*\\brome 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\broman forum 1\\b.*|.*\\broman forum 1\\b.*|.*\\broman forum 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\broman\\b.*|.*\\broman\\b.*|.*\\broman\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bforum\\b.*|.*\\bforum\\b.*|.*\\bforum\\b.*": {
+        "vname": "Roman Forum 1",
+        "bilingualName": "Rome 1",
+        "type": "Walk",
+        "image": "images/peddler/59.jpg",
+        "vid": "videos/peddler/IT - ROMAN FORUM 1.mp4"
+    },
+    ".*\\broman forum\\b.*|.*\\broman forum\\b.*|.*\\broman forum\\b.*|.*\\brome 2\\b.*|.*\\brome 2\\b.*|.*\\brome 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\broman\\b.*|.*\\broman\\b.*|.*\\broman\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\broman forum 2\\b.*|.*\\broman forum 2\\b.*|.*\\broman forum 2\\b.*|.*\\bforum\\b.*|.*\\bforum\\b.*|.*\\bforum\\b.*": {
+        "vname": "Roman Forum 2",
+        "bilingualName": "Rome 2",
+        "type": "Walk",
+        "image": "images/peddler/60.jpg",
+        "vid": "videos/peddler/IT - ROMAN FORUM 2.mp4"
+    },
+    ".*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\baqueduct park 1\\b.*|.*\\baqueduct park 1\\b.*|.*\\baqueduct park 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\brome 3\\b.*|.*\\brome 3\\b.*|.*\\brome 3\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct park\\b.*|.*\\baqueduct park\\b.*|.*\\baqueduct park\\b.*": {
+        "vname": "Aqueduct Park 1",
+        "bilingualName": "Rome 3",
+        "type": "Walk",
+        "image": "images/peddler/96.jpg",
+        "vid": "videos/peddler/IT - ROME 3 AQUEDUCT PARK.mp4"
+    },
+    ".*\\baqueduct park 2\\b.*|.*\\baqueduct park 2\\b.*|.*\\baqueduct park 2\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\brome 4\\b.*|.*\\brome 4\\b.*|.*\\brome 4\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct\\b.*|.*\\baqueduct park\\b.*|.*\\baqueduct park\\b.*|.*\\baqueduct park\\b.*": {
+        "vname": "Aqueduct Park 2",
+        "bilingualName": "Rome 4",
+        "type": "Walk",
+        "image": "images/peddler/98.jpg",
+        "vid": "videos/peddler/IT - ROME 4 AQUEDUCT PARK.mp4"
+    },
+    ".*\\brome 5\\b.*|.*\\brome 5\\b.*|.*\\brome 5\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\brome\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\brome river ride\\b.*|.*\\brome river ride\\b.*|.*\\brome river ride\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Rome River Ride",
+        "bilingualName": "Rome 5",
+        "type": "Bike",
+        "image": "images/peddler/72.jpg",
+        "vid": "videos/peddler/IT - ROME 5 TIBER CYCLING LANE.mp4"
+    },
+    ".*\\bsant\\b.*|.*\\bsant\\b.*|.*\\bsant\\b.*|.*\\bsant angelo\\b.*|.*\\bsant angelo\\b.*|.*\\bsant angelo\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsant angelo 1\\b.*|.*\\bsant angelo 1\\b.*|.*\\bsant angelo 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bangelo\\b.*|.*\\bangelo\\b.*|.*\\bangelo\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*": {
+        "vname": "Sant Angelo 1",
+        "bilingualName": "Sant Angelo 1",
+        "type": "Walk",
+        "image": "images/peddler/42.jpg",
+        "vid": "videos/peddler/IT - SANT ANGELO 1.mp4"
+    },
+    ".*\\bsant\\b.*|.*\\bsant\\b.*|.*\\bsant\\b.*|.*\\bsant angelo\\b.*|.*\\bsant angelo\\b.*|.*\\bsant angelo\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bangelo\\b.*|.*\\bangelo\\b.*|.*\\bangelo\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bsant angelo 2\\b.*|.*\\bsant angelo 2\\b.*|.*\\bsant angelo 2\\b.*": {
+        "vname": "Sant Angelo 2",
+        "bilingualName": "Sant Angelo 2",
+        "type": "Walk",
+        "image": "images/peddler/43.jpg",
+        "vid": "videos/peddler/IT - SANT ANGELO 2.mp4"
+    },
+    ".*\\bsasseto\\b.*|.*\\bsasseto\\b.*|.*\\bsasseto\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bsasseto forest\\b.*|.*\\bsasseto forest\\b.*|.*\\bsasseto forest\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bsasseto 1\\b.*|.*\\bsasseto 1\\b.*|.*\\bsasseto 1\\b.*|.*\\bsasseto forest 1\\b.*|.*\\bsasseto forest 1\\b.*|.*\\bsasseto forest 1\\b.*|.*\\bforest\\b.*|.*\\bforest\\b.*|.*\\bforest\\b.*": {
+        "vname": "Sasseto Forest 1",
+        "bilingualName": "Sasseto 1",
+        "type": "Walk",
+        "image": "images/peddler/32.jpg",
+        "vid": "videos/peddler/IT - SASSETO FOREST 1.mp4"
+    },
+    ".*\\bsasseto 2\\b.*|.*\\bsasseto 2\\b.*|.*\\bsasseto 2\\b.*|.*\\bsasseto\\b.*|.*\\bsasseto\\b.*|.*\\bsasseto\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsasseto forest 2\\b.*|.*\\bsasseto forest 2\\b.*|.*\\bsasseto forest 2\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bsasseto forest\\b.*|.*\\bsasseto forest\\b.*|.*\\bsasseto forest\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bforest\\b.*|.*\\bforest\\b.*|.*\\bforest\\b.*": {
+        "vname": "Sasseto Forest 2",
+        "bilingualName": "Sasseto 2",
+        "type": "Walk",
+        "image": "images/peddler/33.jpg",
+        "vid": "videos/peddler/IT - SASSETO FOREST 2.mp4"
+    },
+    ".*\\bsermoneta\\b.*|.*\\bsermoneta\\b.*|.*\\bsermoneta\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsermoneta 1\\b.*|.*\\bsermoneta 1\\b.*|.*\\bsermoneta 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Sermoneta 1",
+        "bilingualName": "Sermoneta 1",
+        "type": "Walk",
+        "image": "images/peddler/34.jpg",
+        "vid": "videos/peddler/IT - SERMONETA 1.mp4"
+    },
+    ".*\\bsermoneta\\b.*|.*\\bsermoneta\\b.*|.*\\bsermoneta\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsermoneta 2\\b.*|.*\\bsermoneta 2\\b.*|.*\\bsermoneta 2\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Sermoneta 2",
+        "bilingualName": "Sermoneta 2",
+        "type": "Walk",
+        "image": "images/peddler/35.jpg",
+        "vid": "videos/peddler/IT - SERMONETA 2.mp4"
+    },
+    ".*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsorrento 1\\b.*|.*\\bsorrento 1\\b.*|.*\\bsorrento 1\\b.*": {
+        "vname": "Sorrento 1",
+        "bilingualName": "Sorrento 1",
+        "type": "Walk",
+        "image": "images/peddler/00.jpg",
+        "vid": "videos/peddler/IT - SORRENTO 1.mp4"
+    },
+    ".*\\bsorrento 2\\b.*|.*\\bsorrento 2\\b.*|.*\\bsorrento 2\\b.*|.*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*": {
+        "vname": "Sorrento 2",
+        "bilingualName": "Sorrento 2",
+        "type": "Walk",
+        "image": "images/peddler/63.jpg",
+        "vid": "videos/peddler/IT - SORRENTO 2.mp4"
+    },
+    ".*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bsorrento\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bsorrento 3\\b.*|.*\\bsorrento 3\\b.*|.*\\bsorrento 3\\b.*": {
+        "vname": "Sorrento 3",
+        "bilingualName": "Sorrento 3",
+        "type": "Walk",
+        "image": "images/peddler/54.jpg",
+        "vid": "videos/peddler/IT - SORRENTO 3.mp4"
+    },
+    ".*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice canals\\b.*|.*\\bvenice canals\\b.*|.*\\bvenice canals\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bvenice 1\\b.*|.*\\bvenice 1\\b.*|.*\\bvenice 1\\b.*|.*\\bcanals\\b.*|.*\\bcanals\\b.*|.*\\bcanals\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bvenice canals 1\\b.*|.*\\bvenice canals 1\\b.*|.*\\bvenice canals 1\\b.*": {
+        "vname": "Venice Canals 1",
+        "bilingualName": "Venice 1",
+        "type": "Boat",
+        "image": "images/peddler/61.jpg",
+        "vid": "videos/peddler/IT - VENICE CANALS 1.mp4"
+    },
+    ".*\\bvenice 2\\b.*|.*\\bvenice 2\\b.*|.*\\bvenice 2\\b.*|.*\\bvenice canals 2\\b.*|.*\\bvenice canals 2\\b.*|.*\\bvenice canals 2\\b.*|.*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice canals\\b.*|.*\\bvenice canals\\b.*|.*\\bvenice canals\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bcanals\\b.*|.*\\bcanals\\b.*|.*\\bcanals\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*": {
+        "vname": "Venice Canals 2",
+        "bilingualName": "Venice 2",
+        "type": "Boat",
+        "image": "images/peddler/62.jpg",
+        "vid": "videos/peddler/IT - VENICE CANALS 2.mp4"
+    },
+    ".*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bvenice 3\\b.*|.*\\bvenice 3\\b.*|.*\\bvenice 3\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvenice night walk 1\\b.*|.*\\bvenice night walk 1\\b.*|.*\\bvenice night walk 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*": {
+        "vname": "Venice Night Walk 1",
+        "bilingualName": "Venice 3",
+        "type": "Walk",
+        "image": "images/peddler/64.jpg",
+        "vid": "videos/peddler/IT - VENICE NIGHT WALK 1.mp4"
+    },
+    ".*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bvenice night walk 2\\b.*|.*\\bvenice night walk 2\\b.*|.*\\bvenice night walk 2\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bvenice 4\\b.*|.*\\bvenice 4\\b.*|.*\\bvenice 4\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*": {
+        "vname": "Venice Night Walk 2",
+        "bilingualName": "Venice 4",
+        "type": "Walk",
+        "image": "images/peddler/65.jpg",
+        "vid": "videos/peddler/IT - VENICE NIGHT WALK 2.mp4"
+    },
+    ".*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bnight\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bvenice\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvenice 5\\b.*|.*\\bvenice 5\\b.*|.*\\bvenice 5\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bvenice night walk 3\\b.*|.*\\bvenice night walk 3\\b.*|.*\\bvenice night walk 3\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*|.*\\bvenice night walk\\b.*": {
+        "vname": "Venice Night Walk 3",
+        "bilingualName": "Venice 5",
+        "type": "Walk",
+        "image": "images/peddler/66.jpg",
+        "vid": "videos/peddler/IT - VENICE NIGHT WALK 3.mp4"
+    },
+    ".*\\bmt vesuvius 1\\b.*|.*\\bmt vesuvius 1\\b.*|.*\\bmt vesuvius 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bvesuvius\\b.*|.*\\bvesuvius\\b.*|.*\\bvesuvius\\b.*|.*\\bvesuvius 1\\b.*|.*\\bvesuvius 1\\b.*|.*\\bvesuvius 1\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*": {
+        "vname": "Mt Vesuvius 1",
+        "bilingualName": "Vesuvius 1",
+        "type": "Walk",
+        "image": "images/peddler/20.jpg",
+        "vid": "videos/peddler/IT - MOUNT VESUVIUS 1.mp4"
+    },
+    ".*\\bvesuvius 2\\b.*|.*\\bvesuvius 2\\b.*|.*\\bvesuvius 2\\b.*|.*\\bmt vesuvius 2\\b.*|.*\\bmt vesuvius 2\\b.*|.*\\bmt vesuvius 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvesuvius\\b.*|.*\\bvesuvius\\b.*|.*\\bvesuvius\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt vesuvius\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*": {
+        "vname": "Mt Vesuvius 2",
+        "bilingualName": "Vesuvius 2",
+        "type": "Walk",
+        "image": "images/peddler/21.jpg",
+        "vid": "videos/peddler/IT - MOUNT VESUVIUS 2.mp4"
+    },
+    ".*\\bway\\b.*|.*\\bway\\b.*|.*\\bway\\b.*|.*\\bappian way\\b.*|.*\\bappian way\\b.*|.*\\bappian way\\b.*|.*\\bvia appia\\b.*|.*\\bvia appia\\b.*|.*\\bvia appia\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bappian\\b.*|.*\\bappian\\b.*|.*\\bappian\\b.*": {
+        "vname": "Appian Way",
+        "bilingualName": "Via Appia",
+        "type": "Bike",
+        "image": "images/peddler/93.jpg",
+        "vid": "videos/peddler/IT - APPIAN WAY BIKE.mp4"
+    },
+    ".*\\btiberio\\b.*|.*\\btiberio\\b.*|.*\\btiberio\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvia tiberio\\b.*|.*\\bvia tiberio\\b.*|.*\\bvia tiberio\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia tiberio 1\\b.*|.*\\bvia tiberio 1\\b.*|.*\\bvia tiberio 1\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*": {
+        "vname": "Via Tiberio 1",
+        "bilingualName": "Via Tiberio 1",
+        "type": "Walk",
+        "image": "images/peddler/02.jpg",
+        "vid": "videos/peddler/IT - VIA TIBERIO 1.mp4"
+    },
+    ".*\\btiberio\\b.*|.*\\btiberio\\b.*|.*\\btiberio\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia\\b.*|.*\\bvia tiberio\\b.*|.*\\bvia tiberio\\b.*|.*\\bvia tiberio\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bitaly\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bl'italie\\b.*|.*\\bvia tiberio 2\\b.*|.*\\bvia tiberio 2\\b.*|.*\\bvia tiberio 2\\b.*": {
+        "vname": "Via Tiberio 2",
+        "bilingualName": "Via Tiberio 2",
+        "type": "Walk",
+        "image": "images/peddler/03.jpg",
+        "vid": "videos/peddler/IT - VIA TIBERIO 2.mp4"
+    },
+    ".*\\bl'autriche\\b.*|.*\\bl'autriche\\b.*|.*\\bl'autriche\\b.*|.*\\baustria\\b.*|.*\\baustria\\b.*|.*\\baustria\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*": {
+        "vname": "Austria",
+        "bilingualName": "Austria / L'Autriche",
+        "type": "Images",
+        "image": "images/peddler/ST1.jpg",
+        "vid": "videos/peddler/AT - AUSTRIA IMAGES.mp4"
+    },
+    ".*\\bzurich 1\\b.*|.*\\bzurich 1\\b.*|.*\\bzurich 1\\b.*|.*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride 1\\b.*|.*\\bzurich bike ride 1\\b.*|.*\\bzurich bike ride 1\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Zurich Bike Ride 1",
+        "bilingualName": "Zurich 1",
+        "type": "Bike",
+        "image": "images/peddler/EUR1.jpg",
+        "vid": "videos/peddler/CH - ZURICH BIKE RIDE 1.mp4"
+    },
+    ".*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bzurich bike ride 2\\b.*|.*\\bzurich bike ride 2\\b.*|.*\\bzurich bike ride 2\\b.*|.*\\bzurich 2\\b.*|.*\\bzurich 2\\b.*|.*\\bzurich 2\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Zurich Bike Ride 2",
+        "bilingualName": "Zurich 2",
+        "type": "Bike",
+        "image": "images/peddler/EUR2.jpg",
+        "vid": "videos/peddler/CH - ZURICH BIKE RIDE 2.mp4"
+    },
+    ".*\\bzurich bike ride 3\\b.*|.*\\bzurich bike ride 3\\b.*|.*\\bzurich bike ride 3\\b.*|.*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bswitzerland\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bzurich\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bla suisse\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich bike ride\\b.*|.*\\bzurich 3\\b.*|.*\\bzurich 3\\b.*|.*\\bzurich 3\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Zurich Bike Ride 3",
+        "bilingualName": "Zurich 3",
+        "type": "Bike",
+        "image": "images/peddler/EUR3.jpg",
+        "vid": "videos/peddler/CH - ZURICH BIKE RIDE 3.mp4"
+    },
+    ".*\\bgreece 1\\b.*|.*\\bgreece 1\\b.*|.*\\bgreece 1\\b.*|.*\\bgreece\\b.*|.*\\bgreece\\b.*|.*\\bgreece\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\baegean islands\\b.*|.*\\baegean islands\\b.*|.*\\baegean islands\\b.*|.*\\baegean\\b.*|.*\\baegean\\b.*|.*\\baegean\\b.*|.*\\bla grèce\\b.*|.*\\bla grèce\\b.*|.*\\bla grèce\\b.*|.*\\bislands\\b.*|.*\\bislands\\b.*|.*\\bislands\\b.*|.*\\bgrèce n.\\b.*|.*\\bgrèce n.\\b.*|.*\\bgrèce n.\\b.*|.*\\bgrèce n.1\\b.*|.*\\bgrèce n.1\\b.*|.*\\bgrèce n.1\\b.*": {
+        "vname": "Aegean Islands",
+        "bilingualName": "Greece 1/Grèce n.1",
+        "type": "Walk",
+        "image": "images/peddler/GR1.jpg",
+        "vid": "videos/peddler/GR - AEGEAN ISLANDS.mp4"
+    },
+    ".*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpyramids 1\\b.*|.*\\bpyramids 1\\b.*|.*\\bpyramids 1\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\bpyramides\\b.*|.*\\bpyramides\\b.*|.*\\bpyramides\\b.*|.*\\bpyramides 1\\b.*|.*\\bpyramides 1\\b.*|.*\\bpyramides 1\\b.*|.*\\bpyramids\\b.*|.*\\bpyramids\\b.*|.*\\bpyramids\\b.*": {
+        "vname": "Pyramids 1",
+        "bilingualName": "Pyramids / Pyramides 1",
+        "type": "Walk",
+        "image": "images/peddler/24.jpg",
+        "vid": "videos/peddler/EG - PYRAMIDS 1.mp4"
+    },
+    ".*\\bpyramides 2\\b.*|.*\\bpyramides 2\\b.*|.*\\bpyramides 2\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bpyramides\\b.*|.*\\bpyramides\\b.*|.*\\bpyramides\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\bpyramids 2\\b.*|.*\\bpyramids 2\\b.*|.*\\bpyramids 2\\b.*|.*\\bpyramids\\b.*|.*\\bpyramids\\b.*|.*\\bpyramids\\b.*": {
+        "vname": "Pyramids 2",
+        "bilingualName": "Pyramids / Pyramides 2",
+        "type": "Walk",
+        "image": "images/peddler/25.jpg",
+        "vid": "videos/peddler/EG - PYRAMIDS 2.mp4"
+    },
+    ".*\\bsphinx 1\\b.*|.*\\bsphinx 1\\b.*|.*\\bsphinx 1\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsphinx\\b.*|.*\\bsphinx\\b.*|.*\\bsphinx\\b.*": {
+        "vname": "Sphinx 1",
+        "bilingualName": "Sphinx 1",
+        "type": "Walk",
+        "image": "images/peddler/22.jpg",
+        "vid": "videos/peddler/EG - SPHINX 1.mp4"
+    },
+    ".*\\bsphinx 2\\b.*|.*\\bsphinx 2\\b.*|.*\\bsphinx 2\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\begypt\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bl'égypte\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsphinx\\b.*|.*\\bsphinx\\b.*|.*\\bsphinx\\b.*": {
+        "vname": "Sphinx 2",
+        "bilingualName": "Sphinx 2",
+        "type": "Walk",
+        "image": "images/peddler/23.jpg",
+        "vid": "videos/peddler/EG - SPHINX 2.mp4"
+    },
+    ".*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bsan francisco 1\\b.*|.*\\bsan francisco 1\\b.*|.*\\bsan francisco 1\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*": {
+        "vname": "San Francisco 1",
+        "bilingualName": "San Francisco 1",
+        "type": "Walk",
+        "image": "images/peddler/06.jpg",
+        "vid": "videos/peddler/US - CA - SAN FRANCISCO 1.mp4"
+    },
+    ".*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bsan francisco 2\\b.*|.*\\bsan francisco 2\\b.*|.*\\bsan francisco 2\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*": {
+        "vname": "San Francisco 2",
+        "bilingualName": "San Francisco 2",
+        "type": "Walk",
+        "image": "images/peddler/07.jpg",
+        "vid": "videos/peddler/US - CA - SAN FRANCISCO 2.mp4"
+    },
+    ".*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bsan francisco 3\\b.*|.*\\bsan francisco 3\\b.*|.*\\bsan francisco 3\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*": {
+        "vname": "San Francisco 3",
+        "bilingualName": "San Francisco 3",
+        "type": "Walk",
+        "image": "images/peddler/08.jpg",
+        "vid": "videos/peddler/US - CA - SAN FRANCISCO 3.mp4"
+    },
+    ".*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bsan francisco\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsan francisco 4\\b.*|.*\\bsan francisco 4\\b.*|.*\\bsan francisco 4\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bcalifornia\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bla californie\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*|.*\\bfrancisco\\b.*": {
+        "vname": "San Francisco 4",
+        "bilingualName": "San Francisco 4",
+        "type": "Walk",
+        "image": "images/peddler/09.jpg",
+        "vid": "videos/peddler/US - CA - SAN FRANCISCO 4.mp4"
+    },
+    ".*\\blake\\b.*|.*\\blake\\b.*|.*\\blake\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bgreen lake 1\\b.*|.*\\bgreen lake 1\\b.*|.*\\bgreen lake 1\\b.*|.*\\bgreen lake\\b.*|.*\\bgreen lake\\b.*|.*\\bgreen lake\\b.*|.*\\bgreen\\b.*|.*\\bgreen\\b.*|.*\\bgreen\\b.*": {
+        "vname": "Green Lake 1",
+        "bilingualName": "Green Lake 1",
+        "type": "Walk",
+        "image": "images/peddler/10.jpg",
+        "vid": "videos/peddler/US - WA - GREEN LAKE 1.mp4"
+    },
+    ".*\\bgreen lake\\b.*|.*\\bgreen lake\\b.*|.*\\bgreen lake\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bgreen lake 2\\b.*|.*\\bgreen lake 2\\b.*|.*\\bgreen lake 2\\b.*|.*\\bgreen\\b.*|.*\\bgreen\\b.*|.*\\bgreen\\b.*|.*\\blake\\b.*|.*\\blake\\b.*|.*\\blake\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*": {
+        "vname": "Green Lake 2",
+        "bilingualName": "Green Lake 2",
+        "type": "Walk",
+        "image": "images/peddler/11.jpg",
+        "vid": "videos/peddler/US - WA - GREEN LAKE 2.mp4"
+    },
+    ".*\\bmount st helens\\b.*|.*\\bmount st helens\\b.*|.*\\bmount st helens\\b.*|.*\\bmt st helens\\b.*|.*\\bmt st helens\\b.*|.*\\bmt st helens\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmt st helens 1\\b.*|.*\\bmt st helens 1\\b.*|.*\\bmt st helens 1\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bmount st helens 1\\b.*|.*\\bmount st helens 1\\b.*|.*\\bmount st helens 1\\b.*|.*\\bhelens\\b.*|.*\\bhelens\\b.*|.*\\bhelens\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*": {
+        "vname": "Mt St Helens 1",
+        "bilingualName": "Mount St Helens 1",
+        "type": "Walk",
+        "image": "images/peddler/46.jpg",
+        "vid": "videos/peddler/US - WA - MOUNT ST HELENS 1.mp4"
+    },
+    ".*\\bmount st helens\\b.*|.*\\bmount st helens\\b.*|.*\\bmount st helens\\b.*|.*\\bmount st helens 2\\b.*|.*\\bmount st helens 2\\b.*|.*\\bmount st helens 2\\b.*|.*\\bmt st helens\\b.*|.*\\bmt st helens\\b.*|.*\\bmt st helens\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bmt st helens 2\\b.*|.*\\bmt st helens 2\\b.*|.*\\bmt st helens 2\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bhelens\\b.*|.*\\bhelens\\b.*|.*\\bhelens\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*|.*\\bmt\\b.*": {
+        "vname": "Mt St Helens 2",
+        "bilingualName": "Mount St Helens 2",
+        "type": "Walk",
+        "image": "images/peddler/47.jpg",
+        "vid": "videos/peddler/US - WA - MOUNT ST HELENS 2.mp4"
+    },
+    ".*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bpike place, seattle\\b.*|.*\\bpike place, seattle\\b.*|.*\\bpike place, seattle\\b.*|.*\\bplace\\b.*|.*\\bplace\\b.*|.*\\bplace\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bseattle pike place\\b.*|.*\\bseattle pike place\\b.*|.*\\bseattle pike place\\b.*|.*\\bpike\\b.*|.*\\bpike\\b.*|.*\\bpike\\b.*": {
+        "vname": "Seattle Pike Place",
+        "bilingualName": "Pike Place, Seattle",
+        "type": "Walk",
+        "image": "images/peddler/79.jpg",
+        "vid": "videos/peddler/US - WA - SEATTLE PIKE PLACE.mp4"
+    },
+    ".*\\bseattle waterfront 1\\b.*|.*\\bseattle waterfront 1\\b.*|.*\\bseattle waterfront 1\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bseattle 1\\b.*|.*\\bseattle 1\\b.*|.*\\bseattle 1\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*": {
+        "vname": "Seattle Waterfront 1",
+        "bilingualName": "Seattle 1",
+        "type": "Walk",
+        "image": "images/peddler/81.jpg",
+        "vid": "videos/peddler/US - WA - SEATTLE WATERFRONT 1.mp4"
+    },
+    ".*\\bseattle waterfront 2\\b.*|.*\\bseattle waterfront 2\\b.*|.*\\bseattle waterfront 2\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bseattle 2\\b.*|.*\\bseattle 2\\b.*|.*\\bseattle 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*": {
+        "vname": "Seattle Waterfront 2",
+        "bilingualName": "Seattle 2",
+        "type": "Walk",
+        "image": "images/peddler/83.jpg",
+        "vid": "videos/peddler/US - WA - SEATTLE WATERFRONT 2.mp4"
+    },
+    ".*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bseattle\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bseattle 3\\b.*|.*\\bseattle 3\\b.*|.*\\bseattle 3\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bseattle waterfront\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bseattle waterfront 3\\b.*|.*\\bseattle waterfront 3\\b.*|.*\\bseattle waterfront 3\\b.*": {
+        "vname": "Seattle Waterfront 3",
+        "bilingualName": "Seattle 3",
+        "type": "Walk",
+        "image": "images/peddler/US_WA8.jpg",
+        "vid": "videos/peddler/US - WA - SEATTLE WATERFRONT 3.mp4"
+    },
+    ".*\\btumwater falls 1\\b.*|.*\\btumwater falls 1\\b.*|.*\\btumwater falls 1\\b.*|.*\\btumwater\\b.*|.*\\btumwater\\b.*|.*\\btumwater\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\btumwater falls\\b.*|.*\\btumwater falls\\b.*|.*\\btumwater falls\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*": {
+        "vname": "Tumwater Falls 1",
+        "bilingualName": "Tumwater Falls 1",
+        "type": "Walk",
+        "image": "images/peddler/77.jpg",
+        "vid": "videos/peddler/US - WA - TUMWATER FALLS 1.mp4"
+    },
+    ".*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\btumwater\\b.*|.*\\btumwater\\b.*|.*\\btumwater\\b.*|.*\\btumwater falls\\b.*|.*\\btumwater falls\\b.*|.*\\btumwater falls\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\bl'état de washington state\\b.*|.*\\btumwater falls 2\\b.*|.*\\btumwater falls 2\\b.*|.*\\btumwater falls 2\\b.*": {
+        "vname": "Tumwater Falls 2",
+        "bilingualName": "Tumwater Falls 2",
+        "type": "Walk",
+        "image": "images/peddler/78.jpg",
+        "vid": "videos/peddler/US - WA - TUMWATER FALLS 2.mp4"
+    },
+    ".*\\bmichigan\\b.*|.*\\bmichigan\\b.*|.*\\bmichigan\\b.*|.*\\bchicago\\b.*|.*\\bchicago\\b.*|.*\\bchicago\\b.*|.*\\bavenue\\b.*|.*\\bavenue\\b.*|.*\\bavenue\\b.*|.*\\bchicago 1, michigan avenue\\b.*|.*\\bchicago 1, michigan avenue\\b.*|.*\\bchicago 1, michigan avenue\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bchicago 1\\b.*|.*\\bchicago 1\\b.*|.*\\bchicago 1\\b.*|.*\\bl'état de illinois\\b.*|.*\\bl'état de illinois\\b.*|.*\\bl'état de illinois\\b.*": {
+        "vname": "Chicago 1, Michigan Avenue",
+        "bilingualName": "Chicago 1",
+        "type": "Walk",
+        "image": "images/peddler/US_IL1.jpg",
+        "vid": "videos/peddler/US - IL - CHICAGO 1.mp4"
+    },
+    ".*\\bchicago\\b.*|.*\\bchicago\\b.*|.*\\bchicago\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bchicago 2, to the art institute\\b.*|.*\\bchicago 2, to the art institute\\b.*|.*\\bchicago 2, to the art institute\\b.*|.*\\bchicago 2\\b.*|.*\\bchicago 2\\b.*|.*\\bchicago 2\\b.*|.*\\bl'état de illinois\\b.*|.*\\bl'état de illinois\\b.*|.*\\bl'état de illinois\\b.*|.*\\bart\\b.*|.*\\bart\\b.*|.*\\bart\\b.*|.*\\binstitute\\b.*|.*\\binstitute\\b.*|.*\\binstitute\\b.*": {
+        "vname": "Chicago 2, To the Art Institute",
+        "bilingualName": "Chicago 2",
+        "type": "Walk",
+        "image": "images/peddler/US_IL2.jpg",
+        "vid": "videos/peddler/US - IL - CHICAGO 2.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bgranville\\b.*|.*\\bgranville\\b.*|.*\\bgranville\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bgranville island\\b.*|.*\\bgranville island\\b.*|.*\\bgranville island\\b.*": {
+        "vname": "Granville Island",
+        "bilingualName": "Granville Island",
+        "type": "Walk",
+        "image": "images/peddler/29.jpg",
+        "vid": "videos/peddler/CA - BC - GRANVILLE ISLAND.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bstanley park\\b.*|.*\\bstanley park\\b.*|.*\\bstanley park\\b.*|.*\\bstanley park 1\\b.*|.*\\bstanley park 1\\b.*|.*\\bstanley park 1\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*": {
+        "vname": "Stanley Park 1",
+        "bilingualName": "Stanley Park 1",
+        "type": "Walk",
+        "image": "images/peddler/12.jpg",
+        "vid": "videos/peddler/CA - BC - STANLEY PARK 1.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bstanley park\\b.*|.*\\bstanley park\\b.*|.*\\bstanley park\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bstanley park 2\\b.*|.*\\bstanley park 2\\b.*|.*\\bstanley park 2\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*": {
+        "vname": "Stanley Park 2",
+        "bilingualName": "Stanley Park 2",
+        "type": "Walk",
+        "image": "images/peddler/13.jpg",
+        "vid": "videos/peddler/CA - BC - STANLEY PARK 2.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bubc\\b.*|.*\\bubc\\b.*|.*\\bubc\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bubc vancouver\\b.*|.*\\bubc vancouver\\b.*|.*\\bubc vancouver\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*": {
+        "vname": "UBC Vancouver",
+        "bilingualName": "UBC Vancouver",
+        "type": "Walk",
+        "image": "images/peddler/BC7.jpg",
+        "vid": "videos/peddler/CA - BC - UBC VANCOUVER.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvancouver 1\\b.*|.*\\bvancouver 1\\b.*|.*\\bvancouver 1\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*": {
+        "vname": "Vancouver 1",
+        "bilingualName": "Vancouver 1",
+        "type": "Walk",
+        "image": "images/peddler/30.jpg",
+        "vid": "videos/peddler/CA - BC - VANCOUVER 1.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bvancouver 2\\b.*|.*\\bvancouver 2\\b.*|.*\\bvancouver 2\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*": {
+        "vname": "Vancouver 2",
+        "bilingualName": "Vancouver 2",
+        "type": "Walk",
+        "image": "images/peddler/31.jpg",
+        "vid": "videos/peddler/CA - BC - VANCOUVER 2.mp4"
+    },
+    ".*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bc.-b\\b.*|.*\\bcapilano\\b.*|.*\\bcapilano\\b.*|.*\\bcapilano\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bvancouver 3 - capilano\\b.*|.*\\bvancouver 3 - capilano\\b.*|.*\\bvancouver 3 - capilano\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*|.*\\bvancouver\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*|.*\\bbritish columbia\\b.*": {
+        "vname": "Vancouver 3 - Capilano",
+        "bilingualName": "Vancouver 3 - Capilano",
+        "type": "Walk",
+        "image": "images/peddler/BC6.jpg",
+        "vid": "videos/peddler/CA - BC - VANCOUVER 3 CAPILANO.mp4"
+    },
+    ".*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\balgonquin drive 1\\b.*|.*\\balgonquin drive 1\\b.*|.*\\balgonquin drive 1\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin 1\\b.*|.*\\balgonquin 1\\b.*|.*\\balgonquin 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Algonquin Drive 1",
+        "bilingualName": "Algonquin 1",
+        "type": "Drive",
+        "image": "images/peddler/ON8.jpg",
+        "vid": "videos/peddler/CA - ON - ALGONQUIN DRIVE 1.mp4"
+    },
+    ".*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\balgonquin 2\\b.*|.*\\balgonquin 2\\b.*|.*\\balgonquin 2\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\balgonquin drive 2\\b.*|.*\\balgonquin drive 2\\b.*|.*\\balgonquin drive 2\\b.*": {
+        "vname": "Algonquin Drive 2",
+        "bilingualName": "Algonquin 2",
+        "type": "Drive",
+        "image": "images/peddler/ON9.jpg",
+        "vid": "videos/peddler/CA - ON - ALGONQUIN DRIVE 2.mp4"
+    },
+    ".*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\balgonquin\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\balgonquin drive 3\\b.*|.*\\balgonquin drive 3\\b.*|.*\\balgonquin drive 3\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\balgonquin drive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\balgonquin 3\\b.*|.*\\balgonquin 3\\b.*|.*\\balgonquin 3\\b.*": {
+        "vname": "Algonquin Drive 3",
+        "bilingualName": "Algonquin 3",
+        "type": "Drive",
+        "image": "images/peddler/ON10.jpg",
+        "vid": "videos/peddler/CA - ON - ALGONQUIN DRIVE 3.mp4"
+    },
+    ".*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bamusement park\\b.*|.*\\bamusement park\\b.*|.*\\bamusement park\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bamusement\\b.*|.*\\bamusement\\b.*|.*\\bamusement\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bamusement park north bay\\b.*|.*\\bamusement park north bay\\b.*|.*\\bamusement park north bay\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bparc d'attractions\\b.*|.*\\bparc d'attractions\\b.*|.*\\bparc d'attractions\\b.*": {
+        "vname": "Amusement Park North Bay",
+        "bilingualName": "Amusement Park / Parc d'attractions",
+        "type": "Walk",
+        "image": "images/peddler/ON69.jpg",
+        "vid": "videos/peddler/CA - ON - AMUSEMENT PARK NORTH BAY.mp4"
+    },
+    ".*\\bheritage architecture toronto\\b.*|.*\\bheritage architecture toronto\\b.*|.*\\bheritage architecture toronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\barchitecture in\\b.*|.*\\barchitecture in\\b.*|.*\\barchitecture in\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bheritage\\b.*|.*\\bheritage\\b.*|.*\\bheritage\\b.*|.*\\barchitecture\\b.*|.*\\barchitecture\\b.*|.*\\barchitecture\\b.*|.*\\ben toronto\\b.*|.*\\ben toronto\\b.*|.*\\ben toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Heritage Architecture Toronto",
+        "bilingualName": "Architecture in/en Toronto",
+        "type": "Walk",
+        "image": "images/peddler/ON35.jpg",
+        "vid": "videos/peddler/CA - ON - TO - HERITAGE ARCHITECTURE.mp4"
+    },
+    ".*\\barnprior, ontario\\b.*|.*\\barnprior, ontario\\b.*|.*\\barnprior, ontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\barnprior\\b.*|.*\\barnprior\\b.*|.*\\barnprior\\b.*": {
+        "vname": "Arnprior",
+        "bilingualName": "Arnprior, Ontario",
+        "type": "Walk",
+        "image": "images/peddler/ON55.jpg",
+        "vid": "videos/peddler/CA - ON - ARNPRIOR.mp4"
+    },
+    ".*\\bat\\b.*|.*\\bat\\b.*|.*\\bat\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcottage\\b.*|.*\\bcottage\\b.*|.*\\bcottage\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bau chalet\\b.*|.*\\bau chalet\\b.*|.*\\bau chalet\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bat the cottage\\b.*|.*\\bat the cottage\\b.*|.*\\bat the cottage\\b.*": {
+        "vname": "At the Cottage",
+        "bilingualName": "At the Cottage / Au Chalet",
+        "type": "Walk",
+        "image": "images/peddler/ON70.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AT THE COTTAGE.mp4"
+    },
+    ".*\\bbailieboro\\b.*|.*\\bbailieboro\\b.*|.*\\bbailieboro\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bbailieboro fall drive\\b.*|.*\\bbailieboro fall drive\\b.*|.*\\bbailieboro fall drive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bfall\\b.*|.*\\bfall\\b.*|.*\\bfall\\b.*": {
+        "vname": "Bailieboro Fall Drive",
+        "bilingualName": "Bailieboro",
+        "type": "Drive",
+        "image": "images/peddler/ON4.jpg",
+        "vid": "videos/peddler/CA - ON - BAILIEBORO FALL DRIVE.mp4"
+    },
+    ".*\\bat\\b.*|.*\\bat\\b.*|.*\\bat\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bat the ballgame\\b.*|.*\\bat the ballgame\\b.*|.*\\bat the ballgame\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bmatch\\b.*|.*\\bmatch\\b.*|.*\\bmatch\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmatch2\\b.*|.*\\bmatch2\\b.*|.*\\bmatch2\\b.*|.*\\bbaseball game\\b.*|.*\\bbaseball game\\b.*|.*\\bbaseball game\\b.*|.*\\bballgame\\b.*|.*\\bballgame\\b.*|.*\\bballgame\\b.*": {
+        "vname": "At the Ballgame",
+        "bilingualName": "Baseball Game / Match2",
+        "type": "Walk",
+        "image": "images/peddler/ON63.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AT THE BALLGAME.mp4"
+    },
+    ".*\\bbewdley\\b.*|.*\\bbewdley\\b.*|.*\\bbewdley\\b.*|.*\\bcloudy\\b.*|.*\\bcloudy\\b.*|.*\\bcloudy\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcloudy bewdley\\b.*|.*\\bcloudy bewdley\\b.*|.*\\bcloudy bewdley\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Cloudy Bewdley",
+        "bilingualName": "Bewdley",
+        "type": "Drive",
+        "image": "images/peddler/ON5.jpg",
+        "vid": "videos/peddler/CA - ON - CLOUDY DAY BEWDLEY.mp4"
+    },
+    ".*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\bbrockville 1\\b.*|.*\\bbrockville 1\\b.*|.*\\bbrockville 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Brockville",
+        "bilingualName": "Brockville 1",
+        "type": "Walk",
+        "image": "images/peddler/ON29.jpg",
+        "vid": "videos/peddler/CA - ON - BROCKVILLE ONTARIO.mp4"
+    },
+    ".*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bwaterfront\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bbrockville waterfront\\b.*|.*\\bbrockville waterfront\\b.*|.*\\bbrockville waterfront\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bbrockville 2\\b.*|.*\\bbrockville 2\\b.*|.*\\bbrockville 2\\b.*": {
+        "vname": "Brockville Waterfront",
+        "bilingualName": "Brockville 2",
+        "type": "Walk",
+        "image": "images/peddler/ON30.jpg",
+        "vid": "videos/peddler/CA - ON - BROCKVILLE WATERFRONT.mp4"
+    },
+    ".*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\bbrockville\\b.*|.*\\ben train\\b.*|.*\\ben train\\b.*|.*\\ben train\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bbrockville by\\b.*|.*\\bbrockville by\\b.*|.*\\bbrockville by\\b.*|.*\\btrain\\b.*|.*\\btrain\\b.*|.*\\btrain\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\btrain to brockville\\b.*|.*\\btrain to brockville\\b.*|.*\\btrain to brockville\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Train to Brockville",
+        "bilingualName": "Brockville by/en train",
+        "type": "Train",
+        "image": "images/peddler/ON31.jpg",
+        "vid": "videos/peddler/CA - ON - TRAIN TRIP TO BROCKVILLE.mp4"
+    },
+    ".*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bautumn by the water\\b.*|.*\\bautumn by the water\\b.*|.*\\bautumn by the water\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bau bord de l'eau to\\b.*|.*\\bau bord de l'eau to\\b.*|.*\\bau bord de l'eau to\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bwater\\b.*|.*\\bwater\\b.*|.*\\bwater\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bby\\b.*|.*\\bby\\b.*|.*\\bby\\b.*|.*\\bby the water\\b.*|.*\\bby the water\\b.*|.*\\bby the water\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Autumn by the Water",
+        "bilingualName": "By the water/au bord de l'eau TO",
+        "type": "Bike",
+        "image": "images/peddler/ON27.jpg",
+        "vid": "videos/peddler/CA - ON - TO - FALL BY THE WATER.mp4"
+    },
+    ".*\\bcentre island\\b.*|.*\\bcentre island\\b.*|.*\\bcentre island\\b.*|.*\\bcentre\\b.*|.*\\bcentre\\b.*|.*\\bcentre\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bîle centre\\b.*|.*\\bîle centre\\b.*|.*\\bîle centre\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Centre Island",
+        "bilingualName": "Centre Island / île Centre",
+        "type": "Walk",
+        "image": "images/peddler/ON64.jpg",
+        "vid": "videos/peddler/CA - ON - TO - CENTRE ISLAND.mp4"
+    },
+    ".*\\bcentreville\\b.*|.*\\bcentreville\\b.*|.*\\bcentreville\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Centreville",
+        "bilingualName": "Centreville",
+        "type": "Walk",
+        "image": "images/peddler/ON65.jpg",
+        "vid": "videos/peddler/CA - ON - TO - CENTREVILLE.mp4"
+    },
+    ".*\\bchinatown\\b.*|.*\\bchinatown\\b.*|.*\\bchinatown\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bquartier chinois\\b.*|.*\\bquartier chinois\\b.*|.*\\bquartier chinois\\b.*|.*\\bquartier chinois 1\\b.*|.*\\bquartier chinois 1\\b.*|.*\\bquartier chinois 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bchinatown 1\\b.*|.*\\bchinatown 1\\b.*|.*\\bchinatown 1\\b.*": {
+        "vname": "Chinatown 1",
+        "bilingualName": "Chinatown / Quartier Chinois 1",
+        "type": "Walk",
+        "image": "images/peddler/ON56.jpg",
+        "vid": "videos/peddler/CA - ON - TO - CHINATOWN 1.mp4"
+    },
+    ".*\\bchinatown\\b.*|.*\\bchinatown\\b.*|.*\\bchinatown\\b.*|.*\\bchinatown 2\\b.*|.*\\bchinatown 2\\b.*|.*\\bchinatown 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bquartier chinois 2\\b.*|.*\\bquartier chinois 2\\b.*|.*\\bquartier chinois 2\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bquartier chinois\\b.*|.*\\bquartier chinois\\b.*|.*\\bquartier chinois\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Chinatown 2",
+        "bilingualName": "Chinatown / Quartier Chinois 2",
+        "type": "Walk",
+        "image": "images/peddler/ON57.jpg",
+        "vid": "videos/peddler/CA - ON - TO - CHINATOWN 2.mp4"
+    },
+    ".*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bcollingwood 1\\b.*|.*\\bcollingwood 1\\b.*|.*\\bcollingwood 1\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Collingwood 1",
+        "bilingualName": "Collingwood 1",
+        "type": "Drive",
+        "image": "images/peddler/ON51.jpg",
+        "vid": "videos/peddler/CA - ON - COLLINGWOOD 1.mp4"
+    },
+    ".*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcollingwood 2\\b.*|.*\\bcollingwood 2\\b.*|.*\\bcollingwood 2\\b.*": {
+        "vname": "Collingwood 2",
+        "bilingualName": "Collingwood 2",
+        "type": "Drive",
+        "image": "images/peddler/ON45.jpg",
+        "vid": "videos/peddler/CA - ON - COLLINGWOOD 2.mp4"
+    },
+    ".*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bcollingwood\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcollingwood 3\\b.*|.*\\bcollingwood 3\\b.*|.*\\bcollingwood 3\\b.*": {
+        "vname": "Collingwood 3",
+        "bilingualName": "Collingwood 3",
+        "type": "Drive",
+        "image": "images/peddler/ON46.jpg",
+        "vid": "videos/peddler/CA - ON - COLLINGWOOD 3.mp4"
+    },
+    ".*\\bfall colours toronto\\b.*|.*\\bfall colours toronto\\b.*|.*\\bfall colours toronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\bfall colours\\b.*|.*\\bfall colours\\b.*|.*\\bfall colours\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcolours\\b.*|.*\\bcolours\\b.*|.*\\bcolours\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcouleurs de l'automne\\b.*|.*\\bcouleurs de l'automne\\b.*|.*\\bcouleurs de l'automne\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bfall\\b.*|.*\\bfall\\b.*|.*\\bfall\\b.*": {
+        "vname": "Fall Colours Toronto",
+        "bilingualName": "Fall Colours / Couleurs de L'Automne",
+        "type": "Walk",
+        "image": "images/peddler/ON77.jpg",
+        "vid": "videos/peddler/CA - ON - FALL COLOURS.mp4"
+    },
+    ".*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bfarmers market north bay\\b.*|.*\\bfarmers market north bay\\b.*|.*\\bfarmers market north bay\\b.*|.*\\bmarket\\b.*|.*\\bmarket\\b.*|.*\\bmarket\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmarché fermier\\b.*|.*\\bmarché fermier\\b.*|.*\\bmarché fermier\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bfarmers market\\b.*|.*\\bfarmers market\\b.*|.*\\bfarmers market\\b.*|.*\\bfarmers\\b.*|.*\\bfarmers\\b.*|.*\\bfarmers\\b.*": {
+        "vname": "Farmers Market North Bay",
+        "bilingualName": "Farmers Market / Marché Fermier",
+        "type": "Walk",
+        "image": "images/peddler/ON71.jpg",
+        "vid": "videos/peddler/CA - ON - FARMERS MARKET NORTH BAY.mp4"
+    },
+    ".*\\bgraffiti alley\\b.*|.*\\bgraffiti alley\\b.*|.*\\bgraffiti alley\\b.*|.*\\balley\\b.*|.*\\balley\\b.*|.*\\balley\\b.*|.*\\bgraffiti\\b.*|.*\\bgraffiti\\b.*|.*\\bgraffiti\\b.*|.*\\bgraffiti alley toronto\\b.*|.*\\bgraffiti alley toronto\\b.*|.*\\bgraffiti alley toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Graffiti Alley",
+        "bilingualName": "Graffiti Alley Toronto",
+        "type": "Walk",
+        "image": "images/peddler/ON42.jpg",
+        "vid": "videos/peddler/CA - ON - TO - GRAFFITI ALLEY.mp4"
+    },
+    ".*\\bgravenhurst\\b.*|.*\\bgravenhurst\\b.*|.*\\bgravenhurst\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Gravenhurst",
+        "bilingualName": "Gravenhurst",
+        "type": "Drive",
+        "image": "images/peddler/ON76.jpg",
+        "vid": "videos/peddler/CA - ON - GRAVENHURST.mp4"
+    },
+    ".*\\bcomté de grey 1\\b.*|.*\\bcomté de grey 1\\b.*|.*\\bcomté de grey 1\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bgrey county 1\\b.*|.*\\bgrey county 1\\b.*|.*\\bgrey county 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*": {
+        "vname": "Grey County 1",
+        "bilingualName": "Grey County / Comté de Grey 1",
+        "type": "Drive",
+        "image": "images/peddler/ON47.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 1.mp4"
+    },
+    ".*\\bcomté de grey 2\\b.*|.*\\bcomté de grey 2\\b.*|.*\\bcomté de grey 2\\b.*|.*\\bgrey county 2\\b.*|.*\\bgrey county 2\\b.*|.*\\bgrey county 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*": {
+        "vname": "Grey County 2",
+        "bilingualName": "Grey County / Comté de Grey 2",
+        "type": "Walk",
+        "image": "images/peddler/ON48.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 2.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bgrey county 3\\b.*|.*\\bgrey county 3\\b.*|.*\\bgrey county 3\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey 3\\b.*|.*\\bcomté de grey 3\\b.*|.*\\bcomté de grey 3\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*": {
+        "vname": "Grey County 3",
+        "bilingualName": "Grey County / Comté de Grey 3",
+        "type": "Walk",
+        "image": "images/peddler/ON49.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 3.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bgrey county 4\\b.*|.*\\bgrey county 4\\b.*|.*\\bgrey county 4\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcomté de grey 4\\b.*|.*\\bcomté de grey 4\\b.*|.*\\bcomté de grey 4\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*": {
+        "vname": "Grey County 4",
+        "bilingualName": "Grey County / Comté de Grey 4",
+        "type": "Walk",
+        "image": "images/peddler/ON50.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 4.mp4"
+    },
+    ".*\\bgrey county 5\\b.*|.*\\bgrey county 5\\b.*|.*\\bgrey county 5\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcomté de grey 5\\b.*|.*\\bcomté de grey 5\\b.*|.*\\bcomté de grey 5\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*": {
+        "vname": "Grey County 5",
+        "bilingualName": "Grey County / Comté de Grey 5",
+        "type": "Walk",
+        "image": "images/peddler/ON52.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 5.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcomté de grey 6\\b.*|.*\\bcomté de grey 6\\b.*|.*\\bcomté de grey 6\\b.*|.*\\bgrey county 6\\b.*|.*\\bgrey county 6\\b.*|.*\\bgrey county 6\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*": {
+        "vname": "Grey County 6",
+        "bilingualName": "Grey County / Comté de Grey 6",
+        "type": "Walk",
+        "image": "images/peddler/ON53.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 6.mp4"
+    },
+    ".*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bgrey county\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcomté de grey 7\\b.*|.*\\bcomté de grey 7\\b.*|.*\\bcomté de grey 7\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bcounty\\b.*|.*\\bgrey county 7\\b.*|.*\\bgrey county 7\\b.*|.*\\bgrey county 7\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bcomté de grey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*|.*\\bgrey\\b.*": {
+        "vname": "Grey County 7",
+        "bilingualName": "Grey County / Comté de Grey 7",
+        "type": "Walk",
+        "image": "images/peddler/ON54.jpg",
+        "vid": "videos/peddler/CA - ON - GREY COUNTY 7.mp4"
+    },
+    ".*\\bautumn in high park 1\\b.*|.*\\bautumn in high park 1\\b.*|.*\\bautumn in high park 1\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bhigh park 1\\b.*|.*\\bhigh park 1\\b.*|.*\\bhigh park 1\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn in high park\\b.*|.*\\bautumn in high park\\b.*|.*\\bautumn in high park\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\bhigh park\\b.*|.*\\bhigh park\\b.*|.*\\bhigh park\\b.*|.*\\bhigh\\b.*|.*\\bhigh\\b.*|.*\\bhigh\\b.*": {
+        "vname": "Autumn in High Park 1",
+        "bilingualName": "High Park 1",
+        "type": "Bike",
+        "image": "images/peddler/ON25.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AUTUMN IN HIGH PARK 1.mp4"
+    },
+    ".*\\bautumn in high park 2\\b.*|.*\\bautumn in high park 2\\b.*|.*\\bautumn in high park 2\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn in high park\\b.*|.*\\bautumn in high park\\b.*|.*\\bautumn in high park\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bhigh park 2\\b.*|.*\\bhigh park 2\\b.*|.*\\bhigh park 2\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\bhigh park\\b.*|.*\\bhigh park\\b.*|.*\\bhigh park\\b.*|.*\\bhigh\\b.*|.*\\bhigh\\b.*|.*\\bhigh\\b.*": {
+        "vname": "Autumn in High Park 2",
+        "bilingualName": "High Park 2",
+        "type": "Bike",
+        "image": "images/peddler/ON26.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AUTUMN IN HIGH PARK 2.mp4"
+    },
+    ".*\\bferry à l'île\\b.*|.*\\bferry à l'île\\b.*|.*\\bferry à l'île\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bboat\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bferry\\b.*|.*\\bferry\\b.*|.*\\bferry\\b.*|.*\\bisland ferry\\b.*|.*\\bisland ferry\\b.*|.*\\bisland ferry\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Island Ferry",
+        "bilingualName": "Island Ferry / Ferry à l'île",
+        "type": "Boat",
+        "image": "images/peddler/ON66.jpg",
+        "vid": "videos/peddler/CA - ON - TO - ISLAND FERRY.mp4"
+    },
+    ".*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bkingsway bike ride\\b.*|.*\\bkingsway bike ride\\b.*|.*\\bkingsway bike ride\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bkingsway\\b.*|.*\\bkingsway\\b.*|.*\\bkingsway\\b.*|.*\\bkingsway, toronto\\b.*|.*\\bkingsway, toronto\\b.*|.*\\bkingsway, toronto\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Kingsway Bike Ride",
+        "bilingualName": "Kingsway, Toronto",
+        "type": "Bike",
+        "image": "images/peddler/CA_ON31.jpg",
+        "vid": "videos/peddler/CA - ON - TO - KINGSWAY BIKE RIDE.mp4"
+    },
+    ".*\\bkleinburg\\b.*|.*\\bkleinburg\\b.*|.*\\bkleinburg\\b.*|.*\\bkleinburg sculpture\\b.*|.*\\bkleinburg sculpture\\b.*|.*\\bkleinburg sculpture\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bsculpture\\b.*|.*\\bsculpture\\b.*|.*\\bsculpture\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Kleinburg Sculpture",
+        "bilingualName": "Kleinburg Sculpture",
+        "type": "Walk",
+        "image": "images/peddler/ON36.jpg",
+        "vid": "videos/peddler/CA - ON - MCMICHAEL SCULPTURE GARDEN.mp4"
+    },
+    ".*\\bkoreatown 1, toronto\\b.*|.*\\bkoreatown 1, toronto\\b.*|.*\\bkoreatown 1, toronto\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bkoreatown 1\\b.*|.*\\bkoreatown 1\\b.*|.*\\bkoreatown 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bkoreatown\\b.*|.*\\bkoreatown\\b.*|.*\\bkoreatown\\b.*": {
+        "vname": "Koreatown 1",
+        "bilingualName": "Koreatown 1, Toronto",
+        "type": "Walk",
+        "image": "images/peddler/YEE_HONG/YH4.jpg",
+        "vid": "videos/peddler/CA - ON - TO - KOREATOWN 1.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bkoreatown\\b.*|.*\\bkoreatown\\b.*|.*\\bkoreatown\\b.*|.*\\bkoreatown 2, toronto\\b.*|.*\\bkoreatown 2, toronto\\b.*|.*\\bkoreatown 2, toronto\\b.*|.*\\bkoreatown 2\\b.*|.*\\bkoreatown 2\\b.*|.*\\bkoreatown 2\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Koreatown 2",
+        "bilingualName": "Koreatown 2, Toronto",
+        "type": "Walk",
+        "image": "images/peddler/YEE_HONG/YH5.jpg",
+        "vid": "videos/peddler/CA - ON - TO - KOREATOWN 2.mp4"
+    },
+    ".*\\bmcdougall\\b.*|.*\\bmcdougall\\b.*|.*\\bmcdougall\\b.*|.*\\bmusée mcdougall\\b.*|.*\\bmusée mcdougall\\b.*|.*\\bmusée mcdougall\\b.*|.*\\bmill\\b.*|.*\\bmill\\b.*|.*\\bmill\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmcdougall mill museum\\b.*|.*\\bmcdougall mill museum\\b.*|.*\\bmcdougall mill museum\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmcdougall museum\\b.*|.*\\bmcdougall museum\\b.*|.*\\bmcdougall museum\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*": {
+        "vname": "McDougall Mill Museum",
+        "bilingualName": "McDougall Museum / Musée McDougall",
+        "type": "Walk",
+        "image": "images/peddler/ON72.jpg",
+        "vid": "videos/peddler/CA - ON - MCDOUGALL MUSEUM.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmeaford\\b.*|.*\\bmeaford\\b.*|.*\\bmeaford\\b.*": {
+        "vname": "Meaford",
+        "bilingualName": "Meaford",
+        "type": "Drive",
+        "image": "images/peddler/ON59.jpg",
+        "vid": "videos/peddler/CA - ON - MEAFORD.mp4"
+    },
+    ".*\\bniagara en auto\\b.*|.*\\bniagara en auto\\b.*|.*\\bniagara en auto\\b.*|.*\\bniagara\\b.*|.*\\bniagara\\b.*|.*\\bniagara\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bniagara drive\\b.*|.*\\bniagara drive\\b.*|.*\\bniagara drive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Niagara Drive",
+        "bilingualName": "Niagara Drive / Niagara en Auto",
+        "type": "Drive",
+        "image": "images/peddler/ON75.jpg",
+        "vid": "videos/peddler/CA - ON - NIAGARA DRIVE.mp4"
+    },
+    ".*\\bnorth bay\\b.*|.*\\bnorth bay\\b.*|.*\\bnorth bay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "North Bay",
+        "bilingualName": "North Bay",
+        "type": "Drive",
+        "image": "images/peddler/ON2.jpg",
+        "vid": "videos/peddler/CA - ON - NORTH BAY ONTARIO.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bnorth of\\b.*|.*\\bnorth of\\b.*|.*\\bnorth of\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmeaford\\b.*|.*\\bmeaford\\b.*|.*\\bmeaford\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bof\\b.*|.*\\bnorth of meaford\\b.*|.*\\bnorth of meaford\\b.*|.*\\bnorth of meaford\\b.*|.*\\bau nord de meaford\\b.*|.*\\bau nord de meaford\\b.*|.*\\bau nord de meaford\\b.*": {
+        "vname": "North of Meaford",
+        "bilingualName": "North of / Au nord de Meaford",
+        "type": "Drive",
+        "image": "images/peddler/ON60.jpg",
+        "vid": "videos/peddler/CA - ON - NORTH OF MEAFORD.mp4"
+    },
+    ".*\\bperth n. 1\\b.*|.*\\bperth n. 1\\b.*|.*\\bperth n. 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bperth n.\\b.*|.*\\bperth n.\\b.*|.*\\bperth n.\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bperth 1\\b.*|.*\\bperth 1\\b.*|.*\\bperth 1\\b.*|.*\\bperth\\b.*|.*\\bperth\\b.*|.*\\bperth\\b.*": {
+        "vname": "Perth 1",
+        "bilingualName": "Perth 1 / Perth n. 1",
+        "type": "Walk",
+        "image": "images/peddler/ON61.jpg",
+        "vid": "videos/peddler/CA - ON - PERTH 1.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bperth n.\\b.*|.*\\bperth n.\\b.*|.*\\bperth n.\\b.*|.*\\bperth n. 2\\b.*|.*\\bperth n. 2\\b.*|.*\\bperth n. 2\\b.*|.*\\bperth 2\\b.*|.*\\bperth 2\\b.*|.*\\bperth 2\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bperth\\b.*|.*\\bperth\\b.*|.*\\bperth\\b.*": {
+        "vname": "Perth 2",
+        "bilingualName": "Perth 2 / Perth n. 2",
+        "type": "Walk",
+        "image": "images/peddler/ON62.jpg",
+        "vid": "videos/peddler/CA - ON - PERTH 2.mp4"
+    },
+    ".*\\bphilosopher's walk\\b.*|.*\\bphilosopher's walk\\b.*|.*\\bphilosopher's walk\\b.*|.*\\bphilosopher's\\b.*|.*\\bphilosopher's\\b.*|.*\\bphilosopher's\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*": {
+        "vname": "Philosopher's Walk",
+        "bilingualName": "Philosopher's Walk",
+        "type": "Drone",
+        "image": "images/peddler/ON16.jpg",
+        "vid": "videos/peddler/CA - ON - TO - PHILOSOPHER'S WALK.mp4"
+    },
+    ".*\\bkleinburg\\b.*|.*\\bkleinburg\\b.*|.*\\bkleinburg\\b.*|.*\\bport\\b.*|.*\\bport\\b.*|.*\\bport\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bperry\\b.*|.*\\bperry\\b.*|.*\\bperry\\b.*|.*\\bport perry & kleinburg\\b.*|.*\\bport perry & kleinburg\\b.*|.*\\bport perry & kleinburg\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Port Perry & Kleinburg",
+        "bilingualName": "Port Perry & Kleinburg",
+        "type": "Drive",
+        "image": "images/peddler/ON37.jpg",
+        "vid": "videos/peddler/CA - ON - PORT PERRY & KLEINBURG.mp4"
+    },
+    ".*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bqueen st west 1\\b.*|.*\\bqueen st west 1\\b.*|.*\\bqueen st west 1\\b.*|.*\\brue queen toronto 1\\b.*|.*\\brue queen toronto 1\\b.*|.*\\brue queen toronto 1\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*": {
+        "vname": "Queen St West 1",
+        "bilingualName": "Queen St / rue Queen Toronto 1",
+        "type": "Walk",
+        "image": "images/peddler/ON43.jpg",
+        "vid": "videos/peddler/CA - ON - TO - QUEEN ST WEST 1.mp4"
+    },
+    ".*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\brue queen toronto 2\\b.*|.*\\brue queen toronto 2\\b.*|.*\\brue queen toronto 2\\b.*|.*\\bqueen st west 2\\b.*|.*\\bqueen st west 2\\b.*|.*\\bqueen st west 2\\b.*": {
+        "vname": "Queen St West 2",
+        "bilingualName": "Queen St / rue Queen Toronto 2",
+        "type": "Walk",
+        "image": "images/peddler/ON44.jpg",
+        "vid": "videos/peddler/CA - ON - TO - QUEEN ST WEST 2.mp4"
+    },
+    ".*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bqueen st west\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bwest\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bqueen\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto\\b.*|.*\\brue queen toronto 3\\b.*|.*\\brue queen toronto 3\\b.*|.*\\brue queen toronto 3\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st\\b.*|.*\\bqueen st west 3\\b.*|.*\\bqueen st west 3\\b.*|.*\\bqueen st west 3\\b.*": {
+        "vname": "Queen St West 3",
+        "bilingualName": "Queen St / rue Queen Toronto 3",
+        "type": "Walk",
+        "image": "images/peddler/ON58.jpg",
+        "vid": "videos/peddler/CA - ON - TO - QUEEN ST WEST 3.mp4"
+    },
+    ".*\\broundhouse\\b.*|.*\\broundhouse\\b.*|.*\\broundhouse\\b.*|.*\\bparc roundhouse\\b.*|.*\\bparc roundhouse\\b.*|.*\\bparc roundhouse\\b.*|.*\\broundhouse park\\b.*|.*\\broundhouse park\\b.*|.*\\broundhouse park\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*": {
+        "vname": "Roundhouse Park",
+        "bilingualName": "Roundhouse Park / Parc Roundhouse",
+        "type": "Walk",
+        "image": "images/peddler/ON67.jpg",
+        "vid": "videos/peddler/CA - ON - TO - ROUNDHOUSE PARK.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bcreek\\b.*|.*\\bcreek\\b.*|.*\\bcreek\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bblack\\b.*|.*\\bblack\\b.*|.*\\bblack\\b.*|.*\\bsentier black creek trail 1\\b.*|.*\\bsentier black creek trail 1\\b.*|.*\\bsentier black creek trail 1\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bblack creek trail\\b.*|.*\\bblack creek trail\\b.*|.*\\bblack creek trail\\b.*|.*\\bblack creek trail 1\\b.*|.*\\bblack creek trail 1\\b.*|.*\\bblack creek trail 1\\b.*": {
+        "vname": "Black Creek Trail 1",
+        "bilingualName": "Sentier Black Creek Trail 1",
+        "type": "Walk",
+        "image": "images/peddler/ON22.jpg",
+        "vid": "videos/peddler/CA - ON - TO - BLACK CREEK TRAIL 1.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bsentier black creek trail\\b.*|.*\\bcreek\\b.*|.*\\bcreek\\b.*|.*\\bcreek\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bblack\\b.*|.*\\bblack\\b.*|.*\\bblack\\b.*|.*\\bblack creek trail 2\\b.*|.*\\bblack creek trail 2\\b.*|.*\\bblack creek trail 2\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bblack creek trail\\b.*|.*\\bblack creek trail\\b.*|.*\\bblack creek trail\\b.*|.*\\bsentier black creek trail 2\\b.*|.*\\bsentier black creek trail 2\\b.*|.*\\bsentier black creek trail 2\\b.*": {
+        "vname": "Black Creek Trail 2",
+        "bilingualName": "Sentier Black Creek Trail 2",
+        "type": "Walk",
+        "image": "images/peddler/ON23.jpg",
+        "vid": "videos/peddler/CA - ON - TO - BLACK CREEK TRAIL 2.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bsentier martin goodman trail 1\\b.*|.*\\bsentier martin goodman trail 1\\b.*|.*\\bsentier martin goodman trail 1\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmartin goodman trail 1\\b.*|.*\\bmartin goodman trail 1\\b.*|.*\\bmartin goodman trail 1\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Martin Goodman Trail 1",
+        "bilingualName": "Sentier Martin Goodman Trail 1",
+        "type": "Bike",
+        "image": "images/peddler/ON17.jpg",
+        "vid": "videos/peddler/CA - ON - TO - MARTIN GOODMAN TRAIL 1.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bsentier martin goodman trail 2\\b.*|.*\\bsentier martin goodman trail 2\\b.*|.*\\bsentier martin goodman trail 2\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bmartin goodman trail 2\\b.*|.*\\bmartin goodman trail 2\\b.*|.*\\bmartin goodman trail 2\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Martin Goodman Trail 2",
+        "bilingualName": "Sentier Martin Goodman Trail 2",
+        "type": "Bike",
+        "image": "images/peddler/ON18.jpg",
+        "vid": "videos/peddler/CA - ON - TO - MARTIN GOODMAN TRAIL 2.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmartin goodman trail 3\\b.*|.*\\bmartin goodman trail 3\\b.*|.*\\bmartin goodman trail 3\\b.*|.*\\bsentier martin goodman trail 3\\b.*|.*\\bsentier martin goodman trail 3\\b.*|.*\\bsentier martin goodman trail 3\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Martin Goodman Trail 3",
+        "bilingualName": "Sentier Martin Goodman Trail 3",
+        "type": "Bike",
+        "image": "images/peddler/ON19.jpg",
+        "vid": "videos/peddler/CA - ON - TO - MARTIN GOODMAN TRAIL 3.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmartin goodman trail 4\\b.*|.*\\bmartin goodman trail 4\\b.*|.*\\bmartin goodman trail 4\\b.*|.*\\bsentier martin goodman trail 4\\b.*|.*\\bsentier martin goodman trail 4\\b.*|.*\\bsentier martin goodman trail 4\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Martin Goodman Trail 4",
+        "bilingualName": "Sentier Martin Goodman Trail 4",
+        "type": "Bike",
+        "image": "images/peddler/ON20.jpg",
+        "vid": "videos/peddler/CA - ON - TO - MARTIN GOODMAN TRAIL 4.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bmartin\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bmartin goodman trail\\b.*|.*\\bsentier martin goodman trail 5\\b.*|.*\\bsentier martin goodman trail 5\\b.*|.*\\bsentier martin goodman trail 5\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bgoodman\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bsentier martin goodman trail\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bmartin goodman trail 5\\b.*|.*\\bmartin goodman trail 5\\b.*|.*\\bmartin goodman trail 5\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*": {
+        "vname": "Martin Goodman Trail 5",
+        "bilingualName": "Sentier Martin Goodman Trail 5",
+        "type": "Bike",
+        "image": "images/peddler/ON21.jpg",
+        "vid": "videos/peddler/CA - ON - TO - MARTIN GOODMAN TRAIL 5.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bblizzard\\b.*|.*\\bblizzard\\b.*|.*\\bblizzard\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bafter a blizzard 1\\b.*|.*\\bafter a blizzard 1\\b.*|.*\\bafter a blizzard 1\\b.*|.*\\bla neige 1, toronto\\b.*|.*\\bla neige 1, toronto\\b.*|.*\\bla neige 1, toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bsnow\\b.*|.*\\bsnow\\b.*|.*\\bsnow\\b.*|.*\\bafter\\b.*|.*\\bafter\\b.*|.*\\bafter\\b.*|.*\\bafter a blizzard\\b.*|.*\\bafter a blizzard\\b.*|.*\\bafter a blizzard\\b.*": {
+        "vname": "After a Blizzard 1",
+        "bilingualName": "Snow / La neige 1, Toronto",
+        "type": "Walk",
+        "image": "images/peddler/ON33.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AFTER A BLIZZARD 1.mp4"
+    },
+    ".*\\bla neige 2, toronto\\b.*|.*\\bla neige 2, toronto\\b.*|.*\\bla neige 2, toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bblizzard\\b.*|.*\\bblizzard\\b.*|.*\\bblizzard\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bafter a blizzard 2\\b.*|.*\\bafter a blizzard 2\\b.*|.*\\bafter a blizzard 2\\b.*|.*\\bsnow\\b.*|.*\\bsnow\\b.*|.*\\bsnow\\b.*|.*\\bafter\\b.*|.*\\bafter\\b.*|.*\\bafter\\b.*|.*\\bafter a blizzard\\b.*|.*\\bafter a blizzard\\b.*|.*\\bafter a blizzard\\b.*": {
+        "vname": "After a Blizzard 2",
+        "bilingualName": "Snow / La neige 2, Toronto",
+        "type": "Walk",
+        "image": "images/peddler/ON34.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AFTER A BLIZZARD 2.mp4"
+    },
+    ".*\\bmarket\\b.*|.*\\bmarket\\b.*|.*\\bmarket\\b.*|.*\\bst lawrence market\\b.*|.*\\bst lawrence market\\b.*|.*\\bst lawrence market\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\blawrence\\b.*|.*\\blawrence\\b.*|.*\\blawrence\\b.*": {
+        "vname": "St Lawrence Market",
+        "bilingualName": "St Lawrence Market",
+        "type": "Walk",
+        "image": "images/peddler/ON32.jpg",
+        "vid": "videos/peddler/CA - ON - TO - ST LAWRENCE MARKET.mp4"
+    },
+    ".*\\bsunset park\\b.*|.*\\bsunset park\\b.*|.*\\bsunset park\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bsunset\\b.*|.*\\bsunset\\b.*|.*\\bsunset\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bparc sunset\\b.*|.*\\bparc sunset\\b.*|.*\\bparc sunset\\b.*|.*\\bsunset park, north bay\\b.*|.*\\bsunset park, north bay\\b.*|.*\\bsunset park, north bay\\b.*": {
+        "vname": "Sunset Park, North Bay",
+        "bilingualName": "Sunset Park / Parc Sunset",
+        "type": "Walk",
+        "image": "images/peddler/ON73.jpg",
+        "vid": "videos/peddler/CA - ON - SUNSET PARK.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\broad to the cottage\\b.*|.*\\broad to the cottage\\b.*|.*\\broad to the cottage\\b.*|.*\\bcottage\\b.*|.*\\bcottage\\b.*|.*\\bcottage\\b.*|.*\\bto the cottage\\b.*|.*\\bto the cottage\\b.*|.*\\bto the cottage\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bvers le chalet\\b.*|.*\\bvers le chalet\\b.*|.*\\bvers le chalet\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\broad\\b.*|.*\\broad\\b.*|.*\\broad\\b.*": {
+        "vname": "Road to the Cottage",
+        "bilingualName": "To the cottage / Vers le chalet",
+        "type": "Drive",
+        "image": "images/peddler/ON74.jpg",
+        "vid": "videos/peddler/CA - ON - TO THE COTTAGE.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\bdrive into toronto\\b.*|.*\\bdrive into toronto\\b.*|.*\\bdrive into toronto\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\binto\\b.*|.*\\binto\\b.*|.*\\binto\\b.*": {
+        "vname": "Drive into Toronto",
+        "bilingualName": "Toronto ",
+        "type": "Drive",
+        "image": "images/peddler/ON6.jpg",
+        "vid": "videos/peddler/CA - ON - TO - DRIVE INTO TORONTO.mp4"
+    },
+    ".*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bbike\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bride\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn\\b.*|.*\\bautumn bike ride\\b.*|.*\\bautumn bike ride\\b.*|.*\\bautumn bike ride\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\btoronto by bike\\b.*|.*\\btoronto by bike\\b.*|.*\\btoronto by bike\\b.*|.*\\bà vélo\\b.*|.*\\bà vélo\\b.*|.*\\bà vélo\\b.*": {
+        "vname": "Autumn Bike Ride",
+        "bilingualName": "Toronto by bike/à vélo",
+        "type": "Bike",
+        "image": "images/peddler/ON24.jpg",
+        "vid": "videos/peddler/CA - ON - TO - AUTUMN BIKE RIDE.mp4"
+    },
+    ".*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bward's\\b.*|.*\\bward's\\b.*|.*\\bward's\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bward's island\\b.*|.*\\bward's island\\b.*|.*\\bward's island\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bl'île ward\\b.*|.*\\bl'île ward\\b.*|.*\\bl'île ward\\b.*": {
+        "vname": "Ward's Island",
+        "bilingualName": "Ward's Island / L'île Ward",
+        "type": "Walk",
+        "image": "images/peddler/ON68.jpg",
+        "vid": "videos/peddler/CA - ON - TO - WARDS ISLAND.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bwinter trail walk\\b.*|.*\\bwinter trail walk\\b.*|.*\\bwinter trail walk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bont\\b.*|.*\\bwinter\\b.*|.*\\bwinter\\b.*|.*\\bwinter\\b.*|.*\\bwinter walk\\b.*|.*\\bwinter walk\\b.*|.*\\bwinter walk\\b.*|.*\\bsentier en hiver\\b.*|.*\\bsentier en hiver\\b.*|.*\\bsentier en hiver\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*|.*\\bontario\\b.*": {
+        "vname": "Winter Trail Walk",
+        "bilingualName": "Winter Walk / Sentier en hiver",
+        "type": "Walk",
+        "image": "images/peddler/ON38.jpg",
+        "vid": "videos/peddler/CA - ON - WINTER TRAIL WALK.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\batholville\\b.*|.*\\batholville\\b.*|.*\\batholville\\b.*|.*\\bstop\\b.*|.*\\bstop\\b.*|.*\\bstop\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\batholville lunch stop\\b.*|.*\\batholville lunch stop\\b.*|.*\\batholville lunch stop\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\blunch\\b.*|.*\\blunch\\b.*|.*\\blunch\\b.*": {
+        "vname": "Atholville Lunch Stop",
+        "bilingualName": "Atholville",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC2.jpg",
+        "vid": "videos/peddler/CA - NB - ATHOLVILLE LUNCH STOP.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bcampbellton\\b.*|.*\\bcampbellton\\b.*|.*\\bcampbellton\\b.*|.*\\bprov\\b.*|.*\\bprov\\b.*|.*\\bprov\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bcampbellton prov border\\b.*|.*\\bcampbellton prov border\\b.*|.*\\bcampbellton prov border\\b.*|.*\\bborder, n.b\\b.*|.*\\bborder, n.b\\b.*|.*\\bborder, n.b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bfrontière, n.-b\\b.*|.*\\bfrontière, n.-b\\b.*|.*\\bfrontière, n.-b\\b.*|.*\\bborder\\b.*|.*\\bborder\\b.*|.*\\bborder\\b.*": {
+        "vname": "Campbellton Prov Border",
+        "bilingualName": "Border, N.B. / Frontière, N.-B.",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC20.jpg",
+        "vid": "videos/peddler/CA - NB - PROVINCIAL BORDER CAMPBELLTON.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bcampbellton\\b.*|.*\\bcampbellton\\b.*|.*\\bcampbellton\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*": {
+        "vname": "Campbellton",
+        "bilingualName": "Campbellton",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC6.jpg",
+        "vid": "videos/peddler/CA - NB - CAMPBELLTON.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bcountry\\b.*|.*\\bcountry\\b.*|.*\\bcountry\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bcountry inn\\b.*|.*\\bcountry inn\\b.*|.*\\bcountry inn\\b.*|.*\\binn\\b.*|.*\\binn\\b.*|.*\\binn\\b.*|.*\\bauberge\\b.*|.*\\bauberge\\b.*|.*\\bauberge\\b.*": {
+        "vname": "Country Inn",
+        "bilingualName": "Country Inn / Auberge",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB23.jpg",
+        "vid": "videos/peddler/CA - NB - COUNTRY INN.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnear\\b.*|.*\\bnear\\b.*|.*\\bnear\\b.*|.*\\bautoroute\\b.*|.*\\bautoroute\\b.*|.*\\bautoroute\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bnorth near edmundston\\b.*|.*\\bnorth near edmundston\\b.*|.*\\bnorth near edmundston\\b.*|.*\\bedmundston hwy\\b.*|.*\\bedmundston hwy\\b.*|.*\\bedmundston hwy\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bedmundston\\b.*|.*\\bedmundston\\b.*|.*\\bedmundston\\b.*": {
+        "vname": "North Near Edmundston",
+        "bilingualName": "Edmundston Hwy / Autoroute",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC35.jpg",
+        "vid": "videos/peddler/CA - NB - NEAR EDMUNDSTON TO QUEBEC.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton - ycc\\b.*|.*\\bfredericton - ycc\\b.*|.*\\bfredericton - ycc\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bycc\\b.*|.*\\bycc\\b.*|.*\\bycc\\b.*|.*\\bfredericton to ycc\\b.*|.*\\bfredericton to ycc\\b.*|.*\\bfredericton to ycc\\b.*": {
+        "vname": "Fredericton to YCC",
+        "bilingualName": "Fredericton - YCC",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC9.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON TO YCC.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton 1\\b.*|.*\\bfredericton 1\\b.*|.*\\bfredericton 1\\b.*": {
+        "vname": "Fredericton 1",
+        "bilingualName": "Fredericton 1",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB14.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 1.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bfredericton 2\\b.*|.*\\bfredericton 2\\b.*|.*\\bfredericton 2\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 2",
+        "bilingualName": "Fredericton 2",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB15.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 2.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton 3\\b.*|.*\\bfredericton 3\\b.*|.*\\bfredericton 3\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 3",
+        "bilingualName": "Fredericton 3",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB16.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 3.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bfredericton 4\\b.*|.*\\bfredericton 4\\b.*|.*\\bfredericton 4\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 4",
+        "bilingualName": "Fredericton 4",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB17.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 4.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton 5\\b.*|.*\\bfredericton 5\\b.*|.*\\bfredericton 5\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 5",
+        "bilingualName": "Fredericton 5",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB18.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 5.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bfredericton 6\\b.*|.*\\bfredericton 6\\b.*|.*\\bfredericton 6\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 6",
+        "bilingualName": "Fredericton 6",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB19.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 6.mp4"
+    },
+    ".*\\bfredericton 7\\b.*|.*\\bfredericton 7\\b.*|.*\\bfredericton 7\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 7",
+        "bilingualName": "Fredericton 7",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB20.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 7.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton 8\\b.*|.*\\bfredericton 8\\b.*|.*\\bfredericton 8\\b.*": {
+        "vname": "Fredericton 8",
+        "bilingualName": "Fredericton 8",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB21.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 8.mp4"
+    },
+    ".*\\bfredericton 9\\b.*|.*\\bfredericton 9\\b.*|.*\\bfredericton 9\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*|.*\\bfredericton\\b.*": {
+        "vname": "Fredericton 9",
+        "bilingualName": "Fredericton 9",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB22.jpg",
+        "vid": "videos/peddler/CA - NB - FREDERICTON 9.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bbrunswick\\b.*|.*\\bbrunswick\\b.*|.*\\bbrunswick\\b.*|.*\\bnew\\b.*|.*\\bnew\\b.*|.*\\bnew\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages: n-b\\b.*|.*\\bimages: n-b\\b.*|.*\\bimages: n-b\\b.*": {
+        "vname": "New Brunswick",
+        "bilingualName": "Images: N-B",
+        "type": "Images",
+        "image": "images/peddler/CA_NB13.jpg",
+        "vid": "videos/peddler/CA - NB - NEW BRUNSWICK IMAGES.mp4"
+    },
+    ".*\\bkingsbrae\\b.*|.*\\bkingsbrae\\b.*|.*\\bkingsbrae\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bgarden\\b.*|.*\\bgarden\\b.*|.*\\bgarden\\b.*|.*\\bkingsbrae garden 1\\b.*|.*\\bkingsbrae garden 1\\b.*|.*\\bkingsbrae garden 1\\b.*|.*\\bkingsbrae 1\\b.*|.*\\bkingsbrae 1\\b.*|.*\\bkingsbrae 1\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bkingsbrae garden\\b.*|.*\\bkingsbrae garden\\b.*|.*\\bkingsbrae garden\\b.*": {
+        "vname": "Kingsbrae Garden 1",
+        "bilingualName": "Kingsbrae 1",
+        "type": "Drone",
+        "image": "images/peddler/YCC/YCC14.jpg",
+        "vid": "videos/peddler/CA - NB - KINGSBRAE GARDEN 1.mp4"
+    },
+    ".*\\bkingsbrae\\b.*|.*\\bkingsbrae\\b.*|.*\\bkingsbrae\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bkingsbrae garden 2\\b.*|.*\\bkingsbrae garden 2\\b.*|.*\\bkingsbrae garden 2\\b.*|.*\\bgarden\\b.*|.*\\bgarden\\b.*|.*\\bgarden\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bkingsbrae 2\\b.*|.*\\bkingsbrae 2\\b.*|.*\\bkingsbrae 2\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bkingsbrae garden\\b.*|.*\\bkingsbrae garden\\b.*|.*\\bkingsbrae garden\\b.*": {
+        "vname": "Kingsbrae Garden 2",
+        "bilingualName": "Kingsbrae 2",
+        "type": "Drone",
+        "image": "images/peddler/YCC/YCC15.jpg",
+        "vid": "videos/peddler/CA - NB - KINGSBRAE GARDEN 2.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bde\\b.*|.*\\bde\\b.*|.*\\bde\\b.*|.*\\bla\\b.*|.*\\bla\\b.*|.*\\bla\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bla dune de bouctouche\\b.*|.*\\bla dune de bouctouche\\b.*|.*\\bla dune de bouctouche\\b.*|.*\\bdune\\b.*|.*\\bdune\\b.*|.*\\bdune\\b.*|.*\\bbouctouche\\b.*|.*\\bbouctouche\\b.*|.*\\bbouctouche\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*": {
+        "vname": "La Dune de Bouctouche",
+        "bilingualName": "La Dune de Bouctouche",
+        "type": "Walk",
+        "image": "images/peddler/CA_NB24.jpg",
+        "vid": "videos/peddler/CA - NB - BOUCTOUCHE.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bmoncton, south\\b.*|.*\\bmoncton, south\\b.*|.*\\bmoncton, south\\b.*|.*\\bsouth\\b.*|.*\\bsouth\\b.*|.*\\bsouth\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bmoncton\\b.*|.*\\bmoncton\\b.*|.*\\bmoncton\\b.*|.*\\band\\b.*|.*\\band\\b.*|.*\\band\\b.*|.*\\bau sud\\b.*|.*\\bau sud\\b.*|.*\\bau sud\\b.*|.*\\bthrough moncton and south\\b.*|.*\\bthrough moncton and south\\b.*|.*\\bthrough moncton and south\\b.*|.*\\bthrough\\b.*|.*\\bthrough\\b.*|.*\\bthrough\\b.*": {
+        "vname": "Through Moncton and South",
+        "bilingualName": "Moncton, south / au sud",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC27.jpg",
+        "vid": "videos/peddler/CA - NB - THROUGH MONCTON AND SOUTH.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\bchutes réversibles\\b.*|.*\\bchutes réversibles\\b.*|.*\\bchutes réversibles\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bjohn\\b.*|.*\\bjohn\\b.*|.*\\bjohn\\b.*|.*\\bst john reversing falls\\b.*|.*\\bst john reversing falls\\b.*|.*\\bst john reversing falls\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\breversing falls\\b.*|.*\\breversing falls\\b.*|.*\\breversing falls\\b.*|.*\\breversing\\b.*|.*\\breversing\\b.*|.*\\breversing\\b.*": {
+        "vname": "St John Reversing Falls",
+        "bilingualName": "Reversing Falls / Chutes Réversibles",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC25.jpg",
+        "vid": "videos/peddler/CA - NB - ST JOHN REVERSING FALLS.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bsackville\\b.*|.*\\bsackville\\b.*|.*\\bsackville\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\binto sackville\\b.*|.*\\binto sackville\\b.*|.*\\binto sackville\\b.*|.*\\binto\\b.*|.*\\binto\\b.*|.*\\binto\\b.*": {
+        "vname": "Into Sackville",
+        "bilingualName": "Sackville",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC12.jpg",
+        "vid": "videos/peddler/CA - NB - INTO SACKVILLE.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bst andrews\\b.*|.*\\bst andrews\\b.*|.*\\bst andrews\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bandrews\\b.*|.*\\bandrews\\b.*|.*\\bandrews\\b.*|.*\\bst. andrews drive\\b.*|.*\\bst. andrews drive\\b.*|.*\\bst. andrews drive\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*": {
+        "vname": "St. Andrews Drive",
+        "bilingualName": "St Andrews",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC36.jpg",
+        "vid": "videos/peddler/CA - NB - ST ANDREWS DRIVE.mp4"
+    },
+    ".*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bnew brunswick\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bsouth\\b.*|.*\\bsouth\\b.*|.*\\bsouth\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bn.-b\\b.*|.*\\bmoncton\\b.*|.*\\bmoncton\\b.*|.*\\bmoncton\\b.*|.*\\bà moncton\\b.*|.*\\bà moncton\\b.*|.*\\bà moncton\\b.*|.*\\bsouth toward moncton\\b.*|.*\\bsouth toward moncton\\b.*|.*\\bsouth toward moncton\\b.*|.*\\bto moncton\\b.*|.*\\bto moncton\\b.*|.*\\bto moncton\\b.*": {
+        "vname": "South toward Moncton",
+        "bilingualName": "To Moncton / À Moncton",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC24.jpg",
+        "vid": "videos/peddler/CA - NB - SOUTH TOWARD MONCTON.mp4"
+    },
+    ".*\\bbeddeck\\b.*|.*\\bbeddeck\\b.*|.*\\bbeddeck\\b.*|.*\\bau nord de\\b.*|.*\\bau nord de\\b.*|.*\\bau nord de\\b.*|.*\\bpast beddeck\\b.*|.*\\bpast beddeck\\b.*|.*\\bpast beddeck\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bbaddeck: north of\\b.*|.*\\bbaddeck: north of\\b.*|.*\\bbaddeck: north of\\b.*|.*\\bpast\\b.*|.*\\bpast\\b.*|.*\\bpast\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Past Beddeck",
+        "bilingualName": "Baddeck: North of / au nord de",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC18.jpg",
+        "vid": "videos/peddler/CA - NS - PAST BADDECK NORTHBOUND.mp4"
+    },
+    ".*\\bmusée bell\\b.*|.*\\bmusée bell\\b.*|.*\\bmusée bell\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*|.*\\bmuseum\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bbaddeck\\b.*|.*\\bbaddeck\\b.*|.*\\bbaddeck\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\band\\b.*|.*\\band\\b.*|.*\\band\\b.*|.*\\bto baddeck and the bell museum\\b.*|.*\\bto baddeck and the bell museum\\b.*|.*\\bto baddeck and the bell museum\\b.*|.*\\bbell museum\\b.*|.*\\bbell museum\\b.*|.*\\bbell museum\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bbell\\b.*|.*\\bbell\\b.*|.*\\bbell\\b.*": {
+        "vname": "To Baddeck and the Bell Museum",
+        "bilingualName": "Bell Museum / Musée Bell",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC28.jpg",
+        "vid": "videos/peddler/CA - NS - TO BADDECK & BELL MUSEUM.mp4"
+    },
+    ".*\\bfrontière, n.-é\\b.*|.*\\bfrontière, n.-é\\b.*|.*\\bfrontière, n.-é\\b.*|.*\\bns\\b.*|.*\\bns\\b.*|.*\\bns\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bacross\\b.*|.*\\bacross\\b.*|.*\\bacross\\b.*|.*\\bthe\\b.*|.*\\bthe\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bacross the ns border\\b.*|.*\\bacross the ns border\\b.*|.*\\bacross the ns border\\b.*|.*\\bborder\\b.*|.*\\bborder\\b.*|.*\\bborder\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bborder, n.s\\b.*|.*\\bborder, n.s\\b.*|.*\\bborder, n.s\\b.*": {
+        "vname": "Across the NS Border",
+        "bilingualName": "Border, N.S./Frontière, N.-É.",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC1.jpg",
+        "vid": "videos/peddler/CA - NS - ACROSS THE BORDER NS.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bpiste cabot 1\\b.*|.*\\bpiste cabot 1\\b.*|.*\\bpiste cabot 1\\b.*|.*\\bcabot\\b.*|.*\\bcabot\\b.*|.*\\bcabot\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bcabot trail\\b.*|.*\\bcabot trail\\b.*|.*\\bcabot trail\\b.*|.*\\bcabot trail 1\\b.*|.*\\bcabot trail 1\\b.*|.*\\bcabot trail 1\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bpiste cabot\\b.*|.*\\bpiste cabot\\b.*|.*\\bpiste cabot\\b.*": {
+        "vname": "Cabot Trail 1",
+        "bilingualName": "Cabot Trail 1 / Piste Cabot 1",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC4.jpg",
+        "vid": "videos/peddler/CA - NS - CABOT TRAIL 1.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bcabot trail 2\\b.*|.*\\bcabot trail 2\\b.*|.*\\bcabot trail 2\\b.*|.*\\bcabot\\b.*|.*\\bcabot\\b.*|.*\\bcabot\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bcabot trail\\b.*|.*\\bcabot trail\\b.*|.*\\bcabot trail\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bpiste cabot\\b.*|.*\\bpiste cabot\\b.*|.*\\bpiste cabot\\b.*|.*\\bpiste cabot 2\\b.*|.*\\bpiste cabot 2\\b.*|.*\\bpiste cabot 2\\b.*": {
+        "vname": "Cabot Trail 2",
+        "bilingualName": "Cabot Trail 2 / Piste Cabot 2",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC5.jpg",
+        "vid": "videos/peddler/CA - NS - CABOT TRAIL 2.mp4"
+    },
+    ".*\\bmargaree\\b.*|.*\\bmargaree\\b.*|.*\\bmargaree\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\bto margaree\\b.*|.*\\bto margaree\\b.*|.*\\bto margaree\\b.*|.*\\bcabot trail à\\b.*|.*\\bcabot trail à\\b.*|.*\\bcabot trail à\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\btoward margaree\\b.*|.*\\btoward margaree\\b.*|.*\\btoward margaree\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Toward Margaree",
+        "bilingualName": "Cabot Trail à/to Margaree",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC29.jpg",
+        "vid": "videos/peddler/CA - NS - TOWARD MARGAREE.mp4"
+    },
+    ".*\\bcanso\\b.*|.*\\bcanso\\b.*|.*\\bcanso\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bcanso causeway\\b.*|.*\\bcanso causeway\\b.*|.*\\bcanso causeway\\b.*|.*\\bchausée canso\\b.*|.*\\bchausée canso\\b.*|.*\\bchausée canso\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bcauseway\\b.*|.*\\bcauseway\\b.*|.*\\bcauseway\\b.*": {
+        "vname": "Canso Causeway",
+        "bilingualName": "Canso Causeway / Chausée Canso",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC7.jpg",
+        "vid": "videos/peddler/CA - NS - CANSO CAUSEWAY.mp4"
+    },
+    ".*\\bcape\\b.*|.*\\bcape\\b.*|.*\\bcape\\b.*|.*\\bcape breton\\b.*|.*\\bcape breton\\b.*|.*\\bcape breton\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bcape breton highlands\\b.*|.*\\bcape breton highlands\\b.*|.*\\bcape breton highlands\\b.*|.*\\bcap breton\\b.*|.*\\bcap breton\\b.*|.*\\bcap breton\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bhighlands\\b.*|.*\\bhighlands\\b.*|.*\\bhighlands\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bbreton\\b.*|.*\\bbreton\\b.*|.*\\bbreton\\b.*": {
+        "vname": "Cape Breton Highlands",
+        "bilingualName": "Cape Breton / Cap Breton",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC8.jpg",
+        "vid": "videos/peddler/CA - NS - CAPE BRETON HIGHLANDS NP.mp4"
+    },
+    ".*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bglace bay\\b.*|.*\\bglace bay\\b.*|.*\\bglace bay\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bmuseums\\b.*|.*\\bmuseums\\b.*|.*\\bmuseums\\b.*|.*\\bglace\\b.*|.*\\bglace\\b.*|.*\\bglace\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bglace bay museums\\b.*|.*\\bglace bay museums\\b.*|.*\\bglace bay museums\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Glace Bay Museums",
+        "bilingualName": "Glace Bay",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC10.jpg",
+        "vid": "videos/peddler/CA - NS - GLACE BAY MUSEUMS.mp4"
+    },
+    ".*\\bns\\b.*|.*\\bns\\b.*|.*\\bns\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bhighway n.s\\b.*|.*\\bhighway n.s\\b.*|.*\\bhighway n.s\\b.*|.*\\bautoroute n.-é\\b.*|.*\\bautoroute n.-é\\b.*|.*\\bautoroute n.-é\\b.*|.*\\btch\\b.*|.*\\btch\\b.*|.*\\btch\\b.*|.*\\bcentral\\b.*|.*\\bcentral\\b.*|.*\\bcentral\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bnorth\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bnorth central tch, ns\\b.*|.*\\bnorth central tch, ns\\b.*|.*\\bnorth central tch, ns\\b.*": {
+        "vname": "North Central TCH, NS",
+        "bilingualName": "Highway N.S. / Autoroute N.-É.",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC17.jpg",
+        "vid": "videos/peddler/CA - NS - NORTH CENTRAL TRANS-CANADA.mp4"
+    },
+    ".*\\bcheticamp\\b.*|.*\\bcheticamp\\b.*|.*\\bcheticamp\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bhwy\\b.*|.*\\bhwy\\b.*|.*\\bhwy\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\broute 30 chéticamp\\b.*|.*\\broute 30 chéticamp\\b.*|.*\\broute 30 chéticamp\\b.*|.*\\bhwy 30 to cheticamp\\b.*|.*\\bhwy 30 to cheticamp\\b.*|.*\\bhwy 30 to cheticamp\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Hwy 30 to Cheticamp",
+        "bilingualName": "Hwy/Route 30 Chéticamp",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC11.jpg",
+        "vid": "videos/peddler/CA - NS - HWY 30 TOWARD CHETICAMP.mp4"
+    },
+    ".*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\btruro\\b.*|.*\\btruro\\b.*|.*\\btruro\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\binto truro\\b.*|.*\\binto truro\\b.*|.*\\binto truro\\b.*|.*\\bentrée à truro\\b.*|.*\\bentrée à truro\\b.*|.*\\bentrée à truro\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\binto\\b.*|.*\\binto\\b.*|.*\\binto\\b.*": {
+        "vname": "Into Truro",
+        "bilingualName": "Into / Entrée à Truro",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC13.jpg",
+        "vid": "videos/peddler/CA - NS - INTO TRURO.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bpiste middlehead trail\\b.*|.*\\bpiste middlehead trail\\b.*|.*\\bpiste middlehead trail\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bmiddlehead\\b.*|.*\\bmiddlehead\\b.*|.*\\bmiddlehead\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bmiddlehead trail\\b.*|.*\\bmiddlehead trail\\b.*|.*\\bmiddlehead trail\\b.*": {
+        "vname": "Middlehead Trail",
+        "bilingualName": "Piste Middlehead Trail",
+        "type": "Walk",
+        "image": "images/peddler/YCC/YCC16.jpg",
+        "vid": "videos/peddler/CA - NS - MIDDLEHEAD TRAIL.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bseal\\b.*|.*\\bseal\\b.*|.*\\bseal\\b.*|.*\\bseal island\\b.*|.*\\bseal island\\b.*|.*\\bseal island\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bisland\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bpont\\b.*|.*\\bpont\\b.*|.*\\bpont\\b.*|.*\\bseal island bridge\\b.*|.*\\bseal island bridge\\b.*|.*\\bseal island bridge\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Seal Island Bridge",
+        "bilingualName": "Pont / Seal Island / Bridge ",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC22.jpg",
+        "vid": "videos/peddler/CA - NS - SEAL ISLAND BRIDGE.mp4"
+    },
+    ".*\\bskyline\\b.*|.*\\bskyline\\b.*|.*\\bskyline\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bskyline trail\\b.*|.*\\bskyline trail\\b.*|.*\\bskyline trail\\b.*|.*\\bsentier skyline\\b.*|.*\\bsentier skyline\\b.*|.*\\bsentier skyline\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Skyline Trail",
+        "bilingualName": "Skyline Trail / Sentier Skyline",
+        "type": "Walk",
+        "image": "images/peddler/YCC/YCC23.jpg",
+        "vid": "videos/peddler/CA - NS - SKYLINE TRAIL.mp4"
+    },
+    ".*\\bsydney\\b.*|.*\\bsydney\\b.*|.*\\bsydney\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bsydney to glace bay\\b.*|.*\\bsydney to glace bay\\b.*|.*\\bsydney to glace bay\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bglace\\b.*|.*\\bglace\\b.*|.*\\bglace\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bsydney - glace bay\\b.*|.*\\bsydney - glace bay\\b.*|.*\\bsydney - glace bay\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Sydney to Glace Bay",
+        "bilingualName": "Sydney - Glace Bay",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC26.jpg",
+        "vid": "videos/peddler/CA - NS - SYDNEY TO GLACE BAY.mp4"
+    },
+    ".*\\bvers truro\\b.*|.*\\bvers truro\\b.*|.*\\bvers truro\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\btoward\\b.*|.*\\btowards\\b.*|.*\\btowards\\b.*|.*\\btowards\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\btruro\\b.*|.*\\btruro\\b.*|.*\\btruro\\b.*|.*\\btoward truro\\b.*|.*\\btoward truro\\b.*|.*\\btoward truro\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Toward Truro",
+        "bilingualName": "Towards / Vers Truro",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC30.jpg",
+        "vid": "videos/peddler/CA - NS - TOWARD TRURO.mp4"
+    },
+    ".*\\btrail\\b.*|.*\\btrail\\b.*|.*\\btrail\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\bfalls\\b.*|.*\\buisge ban falls trail\\b.*|.*\\buisge ban falls trail\\b.*|.*\\buisge ban falls trail\\b.*|.*\\buisge ban falls\\b.*|.*\\buisge ban falls\\b.*|.*\\buisge ban falls\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\buisge\\b.*|.*\\buisge\\b.*|.*\\buisge\\b.*|.*\\bban\\b.*|.*\\bban\\b.*|.*\\bban\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Uisge Ban Falls Trail",
+        "bilingualName": "Uisge Ban Falls",
+        "type": "Walk",
+        "image": "images/peddler/YCC/YCC31.jpg",
+        "vid": "videos/peddler/CA - NS - UISGE BAN FALLS TRAIL.mp4"
+    },
+    ".*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bbay\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bnova scotia\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bwhycocomagh\\b.*|.*\\bwhycocomagh\\b.*|.*\\bwhycocomagh\\b.*|.*\\bwhycocomagh bay\\b.*|.*\\bwhycocomagh bay\\b.*|.*\\bwhycocomagh bay\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*|.*\\bn.-é\\b.*": {
+        "vname": "Whycocomagh Bay",
+        "bilingualName": "Whycocomagh",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC34.jpg",
+        "vid": "videos/peddler/CA - NS - WHYCOCOMAGH BAY.mp4"
+    },
+    ".*\\bbeach\\b.*|.*\\bbeach\\b.*|.*\\bbeach\\b.*|.*\\bplage brackley\\b.*|.*\\bplage brackley\\b.*|.*\\bplage brackley\\b.*|.*\\bbrackley beach\\b.*|.*\\bbrackley beach\\b.*|.*\\bbrackley beach\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bbrackley\\b.*|.*\\bbrackley\\b.*|.*\\bbrackley\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*": {
+        "vname": "Brackley Beach",
+        "bilingualName": "Brackley Beach / Plage Brackley",
+        "type": "Drone",
+        "image": "images/peddler/CA_PE1.jpg",
+        "vid": "videos/peddler/CA - PE - BRACKLEY BEACH.mp4"
+    },
+    ".*\\bcharlottetown\\b.*|.*\\bcharlottetown\\b.*|.*\\bcharlottetown\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*": {
+        "vname": "Charlottetown",
+        "bilingualName": "Charlottetown",
+        "type": "Drone",
+        "image": "images/peddler/CA_PE2.jpg",
+        "vid": "videos/peddler/CA - PE - CHARLOTTETOWN.mp4"
+    },
+    ".*\\bpont confédération\\b.*|.*\\bpont confédération\\b.*|.*\\bpont confédération\\b.*|.*\\bconfederation\\b.*|.*\\bconfederation\\b.*|.*\\bconfederation\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bconfederation bridge\\b.*|.*\\bconfederation bridge\\b.*|.*\\bconfederation bridge\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*": {
+        "vname": "Confederation Bridge",
+        "bilingualName": "Confederation Bridge / Pont Confédération",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE3.jpg",
+        "vid": "videos/peddler/CA - PE - CONFEDERATION BRIDGE.mp4"
+    },
+    ".*\\bkensington\\b.*|.*\\bkensington\\b.*|.*\\bkensington\\b.*|.*\\bmalpeque > kensington\\b.*|.*\\bmalpeque > kensington\\b.*|.*\\bmalpeque > kensington\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bmalpeque\\b.*|.*\\bmalpeque\\b.*|.*\\bmalpeque\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*": {
+        "vname": "Malpeque > Kensington",
+        "bilingualName": "Malpeque > Kensington",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE4.jpg",
+        "vid": "videos/peddler/CA - PE - MALPEQUE TO KENSINGTON.mp4"
+    },
+    ".*\\bnew\\b.*|.*\\bnew\\b.*|.*\\bnew\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bseaview\\b.*|.*\\bseaview\\b.*|.*\\bseaview\\b.*|.*\\blondon\\b.*|.*\\blondon\\b.*|.*\\blondon\\b.*|.*\\bnew london > seaview\\b.*|.*\\bnew london > seaview\\b.*|.*\\bnew london > seaview\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*": {
+        "vname": "New London > Seaview",
+        "bilingualName": "New London > Seaview",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE5.jpg",
+        "vid": "videos/peddler/CA - PE - NEW LONDON TO SEAVIEW.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bo'leary en auto\\b.*|.*\\bo'leary en auto\\b.*|.*\\bo'leary en auto\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bo'leary drive\\b.*|.*\\bo'leary drive\\b.*|.*\\bo'leary drive\\b.*|.*\\bo'leary\\b.*|.*\\bo'leary\\b.*|.*\\bo'leary\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*": {
+        "vname": "O'Leary Drive",
+        "bilingualName": "O'Leary Drive /O'Leary en auto",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE6.jpg",
+        "vid": "videos/peddler/CA - PE - O'LEARY DRIVE.mp4"
+    },
+    ".*\\bo'leary from above\\b.*|.*\\bo'leary from above\\b.*|.*\\bo'leary from above\\b.*|.*\\bpar drone\\b.*|.*\\bpar drone\\b.*|.*\\bpar drone\\b.*|.*\\babove\\b.*|.*\\babove\\b.*|.*\\babove\\b.*|.*\\bfrom\\b.*|.*\\bfrom\\b.*|.*\\bfrom\\b.*|.*\\bo'leary by drone\\b.*|.*\\bo'leary by drone\\b.*|.*\\bo'leary by drone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bo'leary\\b.*|.*\\bo'leary\\b.*|.*\\bo'leary\\b.*": {
+        "vname": "O'Leary from Above",
+        "bilingualName": "O'Leary by drone / par drone",
+        "type": "Drone",
+        "image": "images/peddler/CA_PE7.jpg",
+        "vid": "videos/peddler/CA - PE - O'LEARY FROM ABOVE.mp4"
+    },
+    ".*\\bvers hunter river\\b.*|.*\\bvers hunter river\\b.*|.*\\bvers hunter river\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\bto hunter river\\b.*|.*\\bto hunter river\\b.*|.*\\bto hunter river\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bhunter\\b.*|.*\\bhunter\\b.*|.*\\bhunter\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*": {
+        "vname": "To Hunter River",
+        "bilingualName": "To / Vers Hunter River",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE8.jpg",
+        "vid": "videos/peddler/CA - PE - HUNTER RIVER.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bstanley\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bto\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bp.-é\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bprince edward island\\b.*|.*\\bto stanley bridge\\b.*|.*\\bto stanley bridge\\b.*|.*\\bto stanley bridge\\b.*|.*\\bvers sydney bridge\\b.*|.*\\bvers sydney bridge\\b.*|.*\\bvers sydney bridge\\b.*": {
+        "vname": "To Stanley Bridge",
+        "bilingualName": "to / Vers Sydney Bridge",
+        "type": "Drive",
+        "image": "images/peddler/CA_PE9.jpg",
+        "vid": "videos/peddler/CA - PE - SYDNEY BRIDGE.mp4"
+    },
+    ".*\\bmatapédia\\b.*|.*\\bmatapédia\\b.*|.*\\bmatapédia\\b.*|.*\\bmatapedia\\b.*|.*\\bmatapedia\\b.*|.*\\bmatapedia\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\brivière matapédia river\\b.*|.*\\brivière matapédia river\\b.*|.*\\brivière matapédia river\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\briver\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\brivière\\b.*|.*\\brivière\\b.*|.*\\brivière\\b.*": {
+        "vname": "Rivière Matapédia River",
+        "bilingualName": "Matapedia",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC3.jpg",
+        "vid": "videos/peddler/CA - QC - BESIDE THE MATAPEDIA RIVER.mp4"
+    },
+    ".*\\bparcs montréalais\\b.*|.*\\bparcs montréalais\\b.*|.*\\bparcs montréalais\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\b2 montreal parks\\b.*|.*\\b2 montreal parks\\b.*|.*\\b2 montreal parks\\b.*|.*\\bparks\\b.*|.*\\bparks\\b.*|.*\\bparks\\b.*|.*\\bmontreal\\b.*|.*\\bmontreal\\b.*|.*\\bmontreal\\b.*|.*\\bmontreal parks\\b.*|.*\\bmontreal parks\\b.*|.*\\bmontreal parks\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*": {
+        "vname": "2 Montreal Parks",
+        "bilingualName": "Montreal Parks / Parcs Montréalais",
+        "type": "Walk",
+        "image": "images/peddler/YCC/CA_QC9.jpg",
+        "vid": "videos/peddler/CA - QC - 2 MONTREAL PARKS.mp4"
+    },
+    ".*\\brues montréalaises\\b.*|.*\\brues montréalaises\\b.*|.*\\brues montréalaises\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bstreets\\b.*|.*\\bstreets\\b.*|.*\\bstreets\\b.*|.*\\bmontreal\\b.*|.*\\bmontreal\\b.*|.*\\bmontreal\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bmontreal streets\\b.*|.*\\bmontreal streets\\b.*|.*\\bmontreal streets\\b.*": {
+        "vname": "Montreal Streets",
+        "bilingualName": "Montreal Streets / Rues Montréalaises",
+        "type": "Walk",
+        "image": "images/peddler/YCC/CA_QC8.jpg",
+        "vid": "videos/peddler/CA - QC - MONTREAL STREETS.mp4"
+    },
+    ".*\\bmont\\b.*|.*\\bmont\\b.*|.*\\bmont\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bpark\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmont royal park\\b.*|.*\\bmont royal park\\b.*|.*\\bmont royal park\\b.*|.*\\broyal\\b.*|.*\\broyal\\b.*|.*\\broyal\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bparc du mont-royal\\b.*|.*\\bparc du mont-royal\\b.*|.*\\bparc du mont-royal\\b.*": {
+        "vname": "Mont Royal Park",
+        "bilingualName": "Parc du Mont-Royal",
+        "type": "Walk",
+        "image": "images/peddler/YCC/CA_QC7.jpg",
+        "vid": "videos/peddler/CA - QC -  MOUNT ROYAL PARK.mp4"
+    },
+    ".*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bbridge\\b.*|.*\\bpont jacques cartier bridge\\b.*|.*\\bpont jacques cartier bridge\\b.*|.*\\bpont jacques cartier bridge\\b.*|.*\\bpont\\b.*|.*\\bpont\\b.*|.*\\bpont\\b.*|.*\\bcartier\\b.*|.*\\bcartier\\b.*|.*\\bcartier\\b.*|.*\\bjacques\\b.*|.*\\bjacques\\b.*|.*\\bjacques\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bpont jacques-cartier bridge\\b.*|.*\\bpont jacques-cartier bridge\\b.*|.*\\bpont jacques-cartier bridge\\b.*": {
+        "vname": "Pont Jacques Cartier Bridge",
+        "bilingualName": "Pont Jacques-Cartier Bridge",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC19.jpg",
+        "vid": "videos/peddler/CA - QC - JACQUES CARTIER BRIDGE.mp4"
+    },
+    ".*\\bst lawrence\\b.*|.*\\bst lawrence\\b.*|.*\\bst lawrence\\b.*|.*\\blaurent\\b.*|.*\\blaurent\\b.*|.*\\blaurent\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bst lawrence / st laurent\\b.*|.*\\bst lawrence / st laurent\\b.*|.*\\bst lawrence / st laurent\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\bst\\b.*|.*\\blawrence\\b.*|.*\\blawrence\\b.*|.*\\blawrence\\b.*|.*\\bst laurent\\b.*|.*\\bst laurent\\b.*|.*\\bst laurent\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*": {
+        "vname": "St Lawrence / St Laurent",
+        "bilingualName": "St Lawrence / St Laurent",
+        "type": "Drive",
+        "image": "images/peddler/YCC/YCC21.jpg",
+        "vid": "videos/peddler/CA - QC - SOUTH SHORE ST LAWRENCE.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bold montréal 1\\b.*|.*\\bold montréal 1\\b.*|.*\\bold montréal 1\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bvieux montréal 1\\b.*|.*\\bvieux montréal 1\\b.*|.*\\bvieux montréal 1\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*": {
+        "vname": "Vieux Montréal 1",
+        "bilingualName": "Vieux/Old Montréal 1",
+        "type": "Walk",
+        "image": "images/peddler/YCC/YCC32.jpg",
+        "vid": "videos/peddler/CA - QC - VIEUX-MONTRÉAL 1.mp4"
+    },
+    ".*\\bold montréal 2\\b.*|.*\\bold montréal 2\\b.*|.*\\bold montréal 2\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bvieux montréal 2\\b.*|.*\\bvieux montréal 2\\b.*|.*\\bvieux montréal 2\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*": {
+        "vname": "Vieux Montréal 2",
+        "bilingualName": "Vieux/Old Montréal 2",
+        "type": "Walk",
+        "image": "images/peddler/YCC/YCC33.jpg",
+        "vid": "videos/peddler/CA - QC - VIEUX-MONTRÉAL 2.mp4"
+    },
+    ".*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bmontréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bvieux montréal\\b.*|.*\\bold montréal 3\\b.*|.*\\bold montréal 3\\b.*|.*\\bold montréal 3\\b.*|.*\\bvieux montréal 3\\b.*|.*\\bvieux montréal 3\\b.*|.*\\bvieux montréal 3\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bvieux\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bold montréal\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*|.*\\bquébec\\b.*": {
+        "vname": "Vieux Montréal 3",
+        "bilingualName": "Vieux/Old Montréal 3",
+        "type": "Walk",
+        "image": "images/peddler/YCC/CA_QC6.jpg",
+        "vid": "videos/peddler/CA - QC - VIEUX-MONTRÉAL 3.mp4"
+    },
+    ".*\\brock\\b.*|.*\\brock\\b.*|.*\\brock\\b.*|.*\\bautoroutes\\b.*|.*\\bautoroutes\\b.*|.*\\bautoroutes\\b.*|.*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bdrive\\b.*|.*\\bhighway rock cuts\\b.*|.*\\bhighway rock cuts\\b.*|.*\\bhighway rock cuts\\b.*|.*\\bhighway\\b.*|.*\\bhighway\\b.*|.*\\bhighway\\b.*|.*\\bcanada: highways\\b.*|.*\\bcanada: highways\\b.*|.*\\bcanada: highways\\b.*|.*\\bcuts\\b.*|.*\\bcuts\\b.*|.*\\bcuts\\b.*": {
+        "vname": "Highway Rock Cuts",
+        "bilingualName": "Canada: Highways / Autoroutes",
+        "type": "Drive",
+        "image": "images/peddler/CAN2.jpg",
+        "vid": "videos/peddler/CA - HIGHWAYS ROCKS & TREES.mp4"
+    },
+    ".*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\beastern canada\\b.*|.*\\beastern canada\\b.*|.*\\beastern canada\\b.*|.*\\bl'est du canada\\b.*|.*\\bl'est du canada\\b.*|.*\\bl'est du canada\\b.*|.*\\beastern\\b.*|.*\\beastern\\b.*|.*\\beastern\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*|.*\\bdrone\\b.*": {
+        "vname": "Eastern Canada",
+        "bilingualName": "Eastern Canada / L'Est du Canada",
+        "type": "Drone",
+        "image": "images/peddler/CAN1.jpg",
+        "vid": "videos/peddler/CA - EASTERN CANADA IMAGES.mp4"
+    },
+    ".*\\bhiking\\b.*|.*\\bhiking\\b.*|.*\\bhiking\\b.*|.*\\bsentiers\\b.*|.*\\bsentiers\\b.*|.*\\bsentiers\\b.*|.*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\bcanada\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\btrails\\b.*|.*\\btrails\\b.*|.*\\btrails\\b.*|.*\\bhiking trails\\b.*|.*\\bhiking trails\\b.*|.*\\bhiking trails\\b.*": {
+        "vname": "Hiking Trails",
+        "bilingualName": "Trails / Sentiers",
+        "type": "Images",
+        "image": "images/peddler/ST2.jpg",
+        "vid": "videos/peddler/CA - HIKING TRAILS.mp4"
+    },
+    ".*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\btoronto\\b.*|.*\\bhall\\b.*|.*\\bhall\\b.*|.*\\bhall\\b.*|.*\\bcity\\b.*|.*\\bcity\\b.*|.*\\bcity\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\btoronto city hall christmas\\b.*|.*\\btoronto city hall christmas\\b.*|.*\\btoronto city hall christmas\\b.*|.*\\bnöel city hall toronto\\b.*|.*\\bnöel city hall toronto\\b.*|.*\\bnöel city hall toronto\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Toronto City Hall Christmas",
+        "bilingualName": "Xmas/Nöel City Hall Toronto",
+        "type": "Walk",
+        "image": "images/peddler/XMAS2.jpg",
+        "vid": "videos/peddler/XMAS - CITY HALL CHRISTMAS.mp4"
+    },
+    ".*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bnöel distillery 1\\b.*|.*\\bnöel distillery 1\\b.*|.*\\bnöel distillery 1\\b.*|.*\\bdistillery christmas 1\\b.*|.*\\bdistillery christmas 1\\b.*|.*\\bdistillery christmas 1\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Distillery Christmas 1",
+        "bilingualName": "Xmas/Nöel Distillery 1",
+        "type": "Walk",
+        "image": "images/peddler/XMAS3.jpg",
+        "vid": "videos/peddler/XMAS - DISTILLERY WINTER VILLAGE 1.mp4"
+    },
+    ".*\\bnöel distillery 2\\b.*|.*\\bnöel distillery 2\\b.*|.*\\bnöel distillery 2\\b.*|.*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bdistillery christmas 2\\b.*|.*\\bdistillery christmas 2\\b.*|.*\\bdistillery christmas 2\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Distillery Christmas 2",
+        "bilingualName": "Xmas/Nöel Distillery 2",
+        "type": "Walk",
+        "image": "images/peddler/XMAS4.jpg",
+        "vid": "videos/peddler/XMAS - DISTILLERY WINTER VILLAGE 2.mp4"
+    },
+    ".*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bnöel distillery\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas\\b.*|.*\\bdistillery christmas 3\\b.*|.*\\bdistillery christmas 3\\b.*|.*\\bdistillery christmas 3\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bdistillery\\b.*|.*\\bnöel distillery 3\\b.*|.*\\bnöel distillery 3\\b.*|.*\\bnöel distillery 3\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Distillery Christmas 3",
+        "bilingualName": "Xmas/Nöel Distillery 3",
+        "type": "Walk",
+        "image": "images/peddler/XMAS5.jpg",
+        "vid": "videos/peddler/XMAS - DISTILLERY WINTER VILLAGE 3.mp4"
+    },
+    ".*\\beaton\\b.*|.*\\beaton\\b.*|.*\\beaton\\b.*|.*\\bcentre\\b.*|.*\\bcentre\\b.*|.*\\bcentre\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bnöel eaton centre\\b.*|.*\\bnöel eaton centre\\b.*|.*\\bnöel eaton centre\\b.*|.*\\beaton centre christmas\\b.*|.*\\beaton centre christmas\\b.*|.*\\beaton centre christmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Eaton Centre Christmas",
+        "bilingualName": "Xmas/Nöel Eaton Centre",
+        "type": "Walk",
+        "image": "images/peddler/XMAS6.jpg",
+        "vid": "videos/peddler/XMAS - EATON CENTRE CHRISTMAS.mp4"
+    },
+    ".*\\blights\\b.*|.*\\blights\\b.*|.*\\blights\\b.*|.*\\bchristmas lights\\b.*|.*\\bchristmas lights\\b.*|.*\\bchristmas lights\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bxmas\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bwalk\\b.*|.*\\bnöel toronto\\b.*|.*\\bnöel toronto\\b.*|.*\\bnöel toronto\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*|.*\\bchristmas\\b.*": {
+        "vname": "Christmas Lights",
+        "bilingualName": "Xmas/Nöel Toronto",
+        "type": "Walk",
+        "image": "images/peddler/XMAS1.jpg",
+        "vid": "videos/peddler/XMAS - CHRISTMAS LIGHTS.mp4"
+    },
+    ".*\\basian sights\\b.*|.*\\basian sights\\b.*|.*\\basian sights\\b.*|.*\\bsights\\b.*|.*\\bsights\\b.*|.*\\bsights\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\b亚洲景象\\b.*|.*\\b亚洲景象\\b.*|.*\\b亚洲景象\\b.*|.*\\basian\\b.*|.*\\basian\\b.*|.*\\basian\\b.*|.*\\basia\\b.*|.*\\basia\\b.*|.*\\basia\\b.*": {
+        "vname": "Asian Sights",
+        "bilingualName": "Asian Sights / 亚洲景象",
+        "type": "Images",
+        "image": "images/peddler/YEE_HONG/Asia1Thumbnail.jpg",
+        "vid": "videos/peddler/YEE_HONG/2Racetest1.mp4"
+    },
+    ".*\\bin traffic\\b.*|.*\\bin traffic\\b.*|.*\\bin traffic\\b.*|.*\\btraffic\\b.*|.*\\btraffic\\b.*|.*\\btraffic\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\b路上\\b.*|.*\\b路上\\b.*|.*\\b路上\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\bin\\b.*|.*\\basia\\b.*|.*\\basia\\b.*|.*\\basia\\b.*": {
+        "vname": "In Traffic",
+        "bilingualName": "In Traffic / 路上",
+        "type": "Images",
+        "image": "images/peddler/YEE_HONG/Asia2Thumbnail.jpg",
+        "vid": "videos/peddler/YEE_HONG/2Racetest2.mp4"
+    },
+    ".*\\bthe\\b.*|.*\\bthe\\b.*|.*\\b水上\\b.*|.*\\b水上\\b.*|.*\\b水上\\b.*|.*\\bwater\\b.*|.*\\bwater\\b.*|.*\\bwater\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bimages\\b.*|.*\\bon the water\\b.*|.*\\bon the water\\b.*|.*\\bon the water\\b.*|.*\\bon\\b.*|.*\\bon\\b.*|.*\\bon\\b.*|.*\\basia\\b.*|.*\\basia\\b.*|.*\\basia\\b.*": {
+        "vname": "On the Water",
+        "bilingualName": "On the Water / 水上",
+        "type": "Images",
+        "image": "images/peddler/YEE_HONG/Asia3Thumbnail.jpg",
+        "vid": "videos/peddler/YEE_HONG/2Racetest3.mp4"
+    }
+}

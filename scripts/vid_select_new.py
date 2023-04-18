@@ -10,9 +10,13 @@ INIT = "init"
 SELECTION_FINISHED = "selection_finished"
 CONFUSED = "confused"
 
+# example data
+with open('inv_index_example.json') as f:
+    vids_rev_index = json.load(f)
 
-with open('vids_regex.json') as f:
-    debug_videos = json.load(f)
+# ## video data (to be improved)
+# with open('vids_rev_index.json') as f:
+#     vids_rev_index = json.load(f)
 
 with open('video_select_script.json') as f:
     dialogues = json.load(f)
@@ -55,15 +59,35 @@ def get_videos(curr_state):
                 text = listen(r, m)
                 print("user dialogue: ", text)
                 if text != None:
-                    for pattern, video in debug_videos.items():
-                        if re.search(re.compile(pattern), text): 
-                            # if a keyword matches, select the corresponding video from the dictionary
-                            lst_vids.append(video) 
-                    if len(lst_vids) == 0:
-                        curr_state = CONFUSED
-                        continue
+                    for term in text.split(' '):
+                        term = term.lower()
+                        if term in vids_rev_index:
+                            lst_vids.extend(vids_rev_index[term])
                 curr_state = SELECTION_FINISHED
-                pprint("video list: ", lst_vids)
+                if (len(lst_vids)) == 0: # no video was found, recommend the first video as default
+                    lst_vids = vids_rev_index["park"]
+                    pprint("Sorry, we could not recognize what you said or find corresponding videos.")
+                    text_to_speech("Sorry, we could not find corresponding videos.")
+                pprint(lst_vids)
                 return lst_vids
 
 get_videos(INIT)
+
+# def get_videos_debug(curr_state, debug_text):
+#     debug_text = debug_text.lower()
+#     while curr_state != SELECTION_FINISHED:
+#         if curr_state == INIT:
+#             print("chatbot: ", dialogues[curr_state]["expected_dialogue"])
+#             lst_vids = []
+#             while curr_state != SELECTION_FINISHED:
+#                 print("user dialogue: ", debug_text)
+#                 if debug_text != None:
+#                     for term in debug_text.split(' '):
+#                         term = term.lower()
+#                         if term in vids_rev_index:
+#                             lst_vids.extend(vids_rev_index[term])
+#                 curr_state = SELECTION_FINISHED
+#                 pprint(lst_vids)
+#                 return lst_vids
+
+# get_videos_debug(INIT, "amusement park")
