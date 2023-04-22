@@ -1,0 +1,206 @@
+[   
+    {
+        "speaker": "user",
+        "expected_dialogue": "Chatbot",
+        "keyword": "Chatbot"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Hi, I'm Chatbot. Thank you for choosing ‘2RaceWithMe.’ It is my utmost pleasure to help you achieve your fitness goals and lead a healthy lifestyle. Please say the word 'setup' when you want to start setting up your equipment"
+        },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Can you tell me how to set up the equipment?",
+        "keyword": "set up"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "There are 6 steps to set up the system. It will take you 30 minutes to finish. Please look at the display now (the display shows Figure 1 in Appendix). Are you ready for Step #1? Please say ready."    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "Step #1 - Pick up the Base shown on the display and put it in front of you. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "Then pick up the Foot Bracket and install it on the Base. Use the Allen Wrench to hold one end. Use the Multi Wrench to tighten the other end. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "Then pick up the Long Body Frame and install it on the Base. Use the Allen Wrench to hold one end. Use the Multi Wrench to tighten the other end. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! You're done Step #1. Are you ready for Step #2?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Step #2 - Pick up the Arm Rest Bracket shown on the display and put it in front of you. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then place the Arm Rest Bracket on the Long Body Frame and secure it using 3 screws. Use the Allen Wrench to hold one end. Use the Multi Wrench to tighten the other end. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! You're done Step #2. Are you ready for Step #3?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "Step #3 - Pick up the Fixed Foot Bracket and the Arc Frame shown on the display and put them in front of you. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": 
+        "Then use 1 Safe Pin to connect the Long Body Frame with the Fixed Foot Bracket. Are you ready for the next part?"    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then use 1 Safe Pin to connect the Arc Frame with the Fixed Foot Bracket. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! You're done Step #3. Are you ready for Step #4?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Step #4 - Pick up the Pedal Assembly shown on the display and put it in front of you. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then connect the Pedal Assembly to the underside of the Foot Bracket. Use the Allen Wrench to hold one end. Use the Multi Wrench to tighten the other end. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! You're done Step #4. Are you ready for Step #5?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Step #5 - Pick up the Arc Frame shown on the display and put it in front of you. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then place the Arc Frame between the Foot Bracket and Long Body Frame and insert a Safety Pin. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then use the Resistance Knobs to tighten the Arc Frame and Arm Rest Bracket. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! You're done Step #5. Are you ready for Step #6?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Step #6 - Pick up the Handlebar Assembly shown on the display and put it in front of you. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Then attach the Handlebar Assembly to the Armrest Bracket. Use the Allen Wrench to hold one end. Use the Multi Wrench to tighten the other end. Are you ready for the next part?"
+    },
+    {        
+        "speaker": "user",
+        "expected_dialogue": "Yes. I’m ready.",
+        "keyword": "ready"
+    },
+    {
+        "speaker": "chatbot",
+        "expected_dialogue": "Congratulations! The set-up is complete."
+    }
+]

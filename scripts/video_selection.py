@@ -1,4 +1,4 @@
-from utils import text_to_speech
+from utils import text_to_speech, listen, r, m
 import json
 import time
 import speech_recognition as sr
@@ -8,62 +8,31 @@ from pprint import pprint
 # ENUMS for video selection script states
 INIT = "init"
 SELECTION_FINISHED = "selection_finished"
-CONFUSED = "confused"
 
+chatbot_init = "Hi, I'm Chatbot. What video would you like to select?"
 
-with open('vids_regex.json') as f:
-    debug_videos = json.load(f)
+with open('./video_parsing/vids_rev_index.json') as f:
+    vids_rev_index = json.load(f)
 
-with open('video_select_script.json') as f:
-    dialogues = json.load(f)
-
-r = sr.Recognizer()
-m = sr.Microphone()
-
-def listen(recognizer, microphone):
-    with microphone as source:
-        print("Listening...")
-        audio = recognizer.listen(source)
-        try:
-            text = recognizer.recognize_google(audio)
-            print("You said : {}".format(text))
-            return text
-        except:
-            print("Sorry could not recognize what you said")
-            return None
-    return None
-
-# Are you looking for video by country, province, state, or by title? Please use the keyword "country", "province", or "title" in your response 
-# country:
-# canada: Are you looking for general Canadian videos, or those of a specific province?
-# general Canada: 3 general Canada videos
-# specific province -> jump to province
-
-# province: return corresponding videos based on videos.js
-
-# did not find state
-
-curr_state = INIT
-
-def get_videos(curr_state):
+def get_videos():
+    text_to_speech(chatbot_init)
+    print("chatbot: ", chatbot_init)
+    lst_vids = []
+    curr_state = INIT
     while curr_state != SELECTION_FINISHED:
-        if curr_state == INIT:
-            text_to_speech(dialogues[curr_state]["expected_dialogue"])
-            print("chatbot: ", dialogues[curr_state]["expected_dialogue"])
-            lst_vids = []
-            while curr_state != SELECTION_FINISHED:
-                text = listen(r, m)
-                print("user dialogue: ", text)
-                if text != None:
-                    for pattern, video in debug_videos.items():
-                        if re.search(re.compile(pattern), text): 
-                            # if a keyword matches, select the corresponding video from the dictionary
-                            lst_vids.append(video) 
-                    if len(lst_vids) == 0:
-                        curr_state = CONFUSED
-                        continue
-                curr_state = SELECTION_FINISHED
-                pprint("video list: ", lst_vids)
-                return lst_vids
+        text = listen(r, m)
+        print("user dialogue: ", text)
+        if text != None:
+            for term in text.split(' '):
+                term = term.lower()
+                if term in vids_rev_index:
+                    videos = vids_rev_index[term]
+                    lst_vids.extend(videos)
+        result = list({v['vname']:v for v in lst_vids}.values()) # remove duplicate videos from multiple keywords
+        curr_state = SELECTION_FINISHED
+        print("result: ")
+        for video in result:
+            pprint(video)
+        return result
 
-get_videos(INIT)
+get_videos()
